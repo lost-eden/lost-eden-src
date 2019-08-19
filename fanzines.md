@@ -13,6 +13,6 @@ title: Liste des Fanzines Lost Eden
 
 *Au sommaire de ce numéro:*
 
-– Animation Japonaise: Lexique, Adresses, News, Point de Vue / Coup de Gueule, Crying Freeman, Dossier Kimagure Orange Road
+- **Animation Japonaise**: Lexique, Adresses, News, Point de Vue / Coup de Gueule, Crying Freeman, Dossier Kimagure Orange Road
 
-– Musique: News, Chronique, Adresses, Dossier Heavenly Voices: Groupes Heavenly Voices, Chandeen, Love Spirals Downwards, Jack or Jive
+- **Musique**: News, Chronique, Adresses, Dossier Heavenly Voices: Groupes Heavenly Voices, Chandeen, Love Spirals Downwards, Jack or Jive
