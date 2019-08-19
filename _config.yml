@@ -1,0 +1,48 @@
+# Site settings
+name: 'Lost Eden'
+description: "Bienvenue sur le site dédié à l'imaginaire, Lost Eden. Ce site fait suite au fanzine Lost Eden créé en 1997. Il a pour vocation de traiter de l’actualité de l'imaginaire et du rêve à travers l’animation japonaise et la musique."
+meta_description: "Lost Eden, chroniqueurs de l'imaginaire depuis 1997"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: 
+production_url: https://lost-eden.github.io/
+
+# Author
+author:
+  name: 'Erwan Carriou'
+  image: 'authorimage.png'
+  bio: "J'étais le rédacteur en chef du fanzine Lost Eden. Je souhaitais depuis longtemps mettre en ligne tous les articles des 6 numéros qui ont été créés de 1997 à 2000."
+
+# Social links
+twitter: 
+
+# Navigation
+navigation:
+  - text: Fanzines
+    url: /fanzines.html
+  - text: Lexique
+    url: /lexique.html
+  - text: A propos
+    url: /about.html
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
