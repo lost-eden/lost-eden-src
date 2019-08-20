@@ -5,4 +5,10 @@
         <span class="screen-reader-text">Twitter</span>
     </a>
     {% endif %}
+    {% if site.github %}
+    <a href="https://github.com/{{ site.github }}" target="_blank">
+        <span class="fa-github fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">GitHub</span>
+    </a>
+    {% endif %}
 </p>

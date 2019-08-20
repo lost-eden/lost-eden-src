@@ -1,0 +1,42 @@
+---
+layout: default
+title: Contact Me
+---
+
+<div id="content" class="site-content fadeInDown delay_075s">
+  <main id="main" class="site-main outer">
+    <div class="inner">
+      <h1 class="post-title">Contacter l'équipe</h1>
+      {% if site.contact_page_description %}
+        <p>{{ site.contact_page_description }}</p>
+      {{else}}
+      {% endif %}
+      <section class="contact-form">
+        <form action="https://formspree.io/{{ site.email }}" method="post" id="contact-form">
+          <div class="form-item">
+            <label class="form-label">Votre Email <span>(obligatoire)</span></label>
+            <input type="text" name="email" placeholder="Votre adresse email..." class="form-input" />
+          </div>
+
+          <div class="form-item">
+            <label class="form-label">Votre Nom <span>(obligatoire)</span></label>
+            <input type="text" name="name" placeholder="Votre nom..." class="form-input" />
+          </div>
+
+          <div class="form-item">
+            <label class="form-label">Votre Message <span>(obligatoire)</span></label>
+            <textarea name="message" placeholder="Votre message..." class="form-textarea"></textarea>
+          </div>
+
+          <input type="hidden" name="_next" value="/thank-you" />
+          <input type="hidden" name="_subject" value="Contact form submission" />
+          <input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="" />
+
+          <div class="form-item">
+            <input type="submit" value="Envoyer le message" class="button" />
+          </div>
+        </form>
+      </section>
+    </div><!-- .inner-->
+  </main>
+</div>

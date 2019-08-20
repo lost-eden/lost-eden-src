@@ -3,16 +3,18 @@ layout: page
 title: Liste des Fanzines Lost Eden
 ---
 
-#### Lost Eden 1, Le seul fanzine qui vous fait pousser des ailes
+### Lost Eden 1
 
 ![Lost Eden 1](/assets/images/pages/losteden1.jpg#left)
 
-*Date de parution*: octobre 1997
+**Slogan**: Le seul fanzine qui vous fait pousser des ailes
 
-*Equipe*: Erwan
+**Date de parution**: octobre 1997
 
-*Au sommaire de ce numéro:*
+**Equipe**: Erwan
 
-- **Animation Japonaise**: Lexique, Adresses, News, Point de Vue / Coup de Gueule, Crying Freeman, Dossier Kimagure Orange Road
+**Au sommaire de ce numéro:**
 
-- **Musique**: News, Chronique, Adresses, Dossier Heavenly Voices: Groupes Heavenly Voices, Chandeen, Love Spirals Downwards, Jack or Jive
+- *Animation Japonaise*: Lexique, Adresses, News, Point de Vue / Coup de Gueule, Crying Freeman, Dossier Kimagure Orange Road
+
+- *Musique*: News, Chronique, Adresses, Dossier Heavenly Voices: Groupes Heavenly Voices, Chandeen, Love Spirals Downwards, Jack or Jive
