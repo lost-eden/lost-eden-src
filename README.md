@@ -37,6 +37,12 @@ bundle exec jekyll serve
 All the modifications to the source code will rebuild the project. The site will be available on http://127.0.0.1:4000.
 
 
-## License
+## Licenses
+
+### Site content
 
 Copyright 2019 Erwan Carriou
+
+### Theme Jekyll
+
+Copyright (c) HORACE. HORACE theme by https://jekyllthemes.io
