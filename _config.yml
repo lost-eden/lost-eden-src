@@ -5,7 +5,7 @@ meta_description: "Lost Eden, chroniqueurs de l'imaginaire depuis 1997"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
-production_url: https://lost-eden.github.io/
+production_url: https://losteden.fr/
 
 # Author
 author:
