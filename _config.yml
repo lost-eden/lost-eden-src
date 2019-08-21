@@ -4,7 +4,7 @@ description: "Bienvenue sur le site dédié à l'imaginaire, Lost Eden. Ce site 
 meta_description: "Lost Eden, chroniqueurs de l'imaginaire depuis 1997"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl::
+baseurl:
 production_url: https://lost-eden.github.io/
 
 # Author
@@ -15,12 +15,12 @@ author:
 
 # Contact form setings
 email: erwan.carriou@mac.com
-contact_page_description: "Pour envoyer un message à l'équipe, compléter le formulaire suivant:"
+contact_page_description: "Pour envoyer un message à l'équipe, vous pouvez nous <a href='mailto:erwan.carriou@mac.com'>envoyer un mail</a> ou compléter le formulaire suivant:"
 thankyou_page_description: "Votre message a bien été envoyé!"
 
 # Social links
 twitter: 
-github: lost-eden/lost-eden.github.io
+github:
 
 # Navigation
 navigation:

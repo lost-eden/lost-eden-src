@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualités de l'animation japonaise en 1997"
+title: "Actualités de l'animation japonaise de la rentrée 1997"
 tags: [ LostEden1 ]
 featured_image_thumbnail: assets/images/posts/1997/souvenirs-actualites-de-l-animation-japonaise-en-1997.jpg
 ---
@@ -44,21 +44,3 @@ Le volume 1 de *Génération Japanimation* [label *Animusik* 1997 CD] contient 1
 Les 3 CD de La chronique de *La guerre de Lodoss* (*Record of Lodoss war*) sont distribués en France par *Animusik*.
 
 Il est possible de trouver de trouver de superbes peluches de *Tonari no Totoro* chez *Asian Alternative* (170 francs la peluche).
-
-#### Manga
-
-Prévus à la rentrée:
-
-- Asatte Dance Vol. 6 [Tonkam]
-- Armagedon Vol .7 [Kana]
-- Conan Vol. 3 [Kana]
-- Dragon Ball Vol. 28 [Glenat]
-- Dr. Slump Vol. 12 [Glenat]
-- Gunnm Vol. 8 [Glenat]
-- Les Chevaliers du Zodiaque Vol. 4 [Kana]
-- Ranma ½ Vol. 13 [Glenat]
-- RG Veda Vol. 8 [Tonkam]
-- RX Vol. 1 [Tonkam]
-- Sailor Moon Vol.14 [Glenat]
-- Sous un rayon de soleil Vol. 1 [Tonkam]
-- Yu Yu Yakusho Vol. 4 [Kana]

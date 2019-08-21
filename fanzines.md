@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Liste des Fanzines Lost Eden
+title: Historique des Fanzines
 ---
 
 ### Lost Eden 1
 
-![Lost Eden 1](/assets/images/pages/losteden1.jpg#left)
+![Lost Eden 1](/assets/images/pages/losteden1.jpg)
 
 **Slogan**: Le seul fanzine qui vous fait pousser des ailes
 
@@ -18,3 +18,20 @@ title: Liste des Fanzines Lost Eden
 - *Animation Japonaise*: Lexique, Adresses, News, Point de Vue / Coup de Gueule, Crying Freeman, Dossier Kimagure Orange Road
 
 - *Musique*: News, Chronique, Adresses, Dossier Heavenly Voices: Groupes Heavenly Voices, Chandeen, Love Spirals Downwards, Jack or Jive
+
+
+### Lost Eden 2
+
+![Lost Eden 2](/assets/images/pages/losteden2.jpg)
+
+**Slogan**: Le seul fanzine qui finit bien
+
+**Date de parution**: juin 1998
+
+**Equipe**: Erwan, Motenaï & Kaori
+
+**Au sommaire de ce numéro:**
+
+- *Animation Japonaise*: Le coin des croqueurs, Courrier, Adresses, News, Point de Vue / Coup de Gueule, Le Saviez-vous ?, Festival Travelling Tokyo, Soirée théma sur Arte, Dossier City Hunter (1ère partie)
+
+- *Musique*: News, Chronique, Adresses, Harold Budd, In the Nursery, Interview de Love Spirals Downwards

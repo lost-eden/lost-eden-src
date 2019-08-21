@@ -16,3 +16,5 @@ Dans les posts qui vont suivre, nous allons vous faire découvrir 3 groupes qui,
 - [Chandeen]({% post_url 1997-10-11-chandeen %}),
 - [Love Spirals Downwards]({% post_url 1997-10-11-love-spirals-downards %}), et
 - [Jack or Jive]({% post_url 1997-10-11-jack-or-jive %}).
+
+On listera aussi un [bon nombre de groupes]({% post_url 1997-10-11-groupe-heavenly-voices %}) qui font parti de cette mouvance musicale.
