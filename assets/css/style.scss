@@ -575,18 +575,18 @@
 
 .newer-posts,
 .older-posts {
-  height: 30px;
+  height: 50px;
   position: absolute;
-  top: 0;
-  width: 30px;
+  top: -10px;
+  width: 50px;
 }
 
 .newer-posts {
-  left: 0;
+  left: 10px;
 }
 
 .older-posts {
-  right: 0;
+  right: 10px;
 }
 
 /**
