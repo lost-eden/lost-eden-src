@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 'Dossier Heavenly Voices'
+title: 'Heavenly Voices'
 tags: [ LostEden1, Dossier ]
 featured_image: assets/images/posts/1997/dossier-heavenly-voices.jpg
+dossier: true
 ---
 
 L'*Heavenly Voices* est un genre musical qui est né au début des années 80 avec la création du label *4AD* qui fit connaître des groupes uniques à l'ambiance éthérée et romantique comme *Cocteau Twins* ou *This Mortal Coil*. 

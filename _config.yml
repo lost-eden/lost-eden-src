@@ -20,14 +20,14 @@ thankyou_page_description: "Votre message a bien été envoyé!"
 
 # Social links
 twitter: 
-github:
+github: lost-eden/lost-eden.github.io
 
 # Navigation
 navigation:
+  - text: Dossiers
+    url: /dossiers.html
   - text: Fanzines
     url: /fanzines.html
-  - text: Lexique
-    url: /lexique.html
   - text: A propos
     url: /about.html
   - text: Contacts
