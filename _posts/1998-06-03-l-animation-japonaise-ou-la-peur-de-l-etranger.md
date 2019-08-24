@@ -7,8 +7,6 @@ featured_image_thumbnail: assets/images/posts/1998/l-animation-japonaise-ou-la-p
 
 **Il y a 10 ans l'accueil réservé aux dessins animés japonais étaient encore bien hostile, il fallait voir le nombre de journalistes qui critiquaient ces productions venues d'un pays bien trop différent à leurs yeux. Les préjugés étaient tenaces (même s'il en existe toujours, ils sont bien plus modérés qu'avant), d'où ce coup de gueule.**
 
-![Image](assets/images/posts/1998/l-animation-japonaise-ou-la-peur-de-l-etranger.jpg#left) 
-
 Il est clair qu’en France, au pays du fromage qui pue, l’animation japonaise n’a franchement pas la côte auprès du grand public. Il suffit de parler d’animation japonaise, ou si vous voulez de manga, pour que tout de suite il y ait les équations MANGA=SEXE et MANGA=VIOLENCE. Ha bon? Alors s’il vous plaît dites-moi ou il y a du sexe dans *Les petits malins* ou *les Moomies* car j’ai du alors raté un épisode. 
 
 On dit aussi souvent que le DA japonais est mal animé, à croire qu’ils n’ont jamais regardé un DA américain (souvenez-vous de *Musclor* où à chaque fois qu’il courrait on nous resservait la même séquence !!). A titre d’information, ce ne sont pas les japonais qui ont inventés ce procédé d’«animation réduite» mais les américains avec le Studio *Hanna Barbera* (*la famille Pierre-à-feu*, *Scoubidou*,...), et pourtant personne ne les critiqua. 
