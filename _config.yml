@@ -7,11 +7,14 @@ favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://losteden.fr/
 
-# Author
-author:
-  name: 'Erwan'
-  image: 'authorimage.png'
-  bio: "J'étais le rédacteur en chef du fanzine Lost Eden. Je souhaitais depuis longtemps mettre en ligne tous les articles des 6 numéros qui ont été créés de 1997 à 2000."
+# Authors
+authors: {
+  'Erwan': {
+    'name': 'Erwan',
+    'image': 'authorimage.png',
+    'bio': "J'étais le rédacteur en chef du fanzine Lost Eden. Je souhaitais depuis longtemps mettre en ligne tous les articles des 6 numéros qui ont été créés de 1997 à 2000."
+  }
+}
 
 # Contact form setings
 email: erwan.carriou@mac.com

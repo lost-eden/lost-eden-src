@@ -59,11 +59,11 @@ post_class: post-template
                 </div><!-- .share-post -->
             </footer>
             <div class="author-box">
-                <div class="author-avatar"><img src="{{ site.baseurl }}/assets/images/{{ site.author.image }}" alt="{{ site.author.name }}'s Picture"
+                <div class="author-avatar"><img src="{{ site.baseurl }}/assets/images/{{site.authors[page.author].image }}" alt="{{ site.authors[page.author].name }}'s Picture"
                         class="avatar"></div>
                 <div class="author-details">
-                    <h2 class="author-title">A propos de {{ site.author.name }}</h2>
-                    <p class="author-description">{{ site.author.bio }}</p>
+                    <h2 class="author-title">A propos de {{ site.authors[page.author].name }}</h2>
+                    <p class="author-description">{{ site.authors[page.author].bio }}</p>
                 </div>
             </div>
            
