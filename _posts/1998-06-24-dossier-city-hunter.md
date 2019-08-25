@@ -12,18 +12,18 @@ author: Motenai
 
 <!--more-->
 
-#### Fiche d'identités
+#### [Fiche d'identités]({% post_url 1998-06-26-city-hunter-fiche-identites %})
 
-- [Ryo SAEBA]({% post_url 1998-06-26-city-hunter-fiche-identites %})
-- [Kaori Makimura]({% post_url 1998-06-26-city-hunter-fiche-identites %})
+- Ryo SAEBA
+- Kaori Makimura
 
-#### La série télévisée
+#### [La série télévisée]({% post_url 1998-06-27-city-hunter-la-serie-tv %})
 
 - Une grande sage
 - Situation & Evolution
 - Un peu de technique
 - Les différences avec le manga
-- La version française à la momo
+- La version française à la Momo
 - Faut-il en vouloir à Maurice Sarfati?
 - City Hunter, fiche technique
 - Paroles des 1er et 2nd Génériques
