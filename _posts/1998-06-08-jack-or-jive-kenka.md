@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jack or Jive, Kenka"
-tags: [ LostEden2, musique ]
+tags: [ LostEden2, Musique ]
 featured_image_thumbnail: assets/images/posts/1998/jackorjive_kenka.jpg
 --- 
 

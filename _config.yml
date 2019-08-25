@@ -25,7 +25,13 @@ github:
 # Navigation
 navigation:
   - text: Dossiers
-    url: /dossiers.html
+    url: /tag/dossier/index.html
+  - text: Anime
+    url: /tag/anime/index.html
+  - text: Musique
+    url: /tag/musique/index.html
+  - text: Chroniques
+    url: /tag/chronique/index.html
   - text: Fanzines
     url: /fanzines.html
   - text: A propos

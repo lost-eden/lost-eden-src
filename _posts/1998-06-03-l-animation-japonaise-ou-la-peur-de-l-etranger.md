@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "L'animation japonaise ou la peur de l'étranger"
-tags: [ LostEden2 ]
+tags: [ LostEden2, Chronique ]
 featured_image_thumbnail: assets/images/posts/1998/l-animation-japonaise-ou-la-peur-de-l-etranger.jpg
 ---
 

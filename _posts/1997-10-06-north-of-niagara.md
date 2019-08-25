@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Danna & Clement, North of Niagara Impression along the Bruce Trail'
-tags: [ LostEden1, musique ]
+tags: [ LostEden1, Musique ]
 featured_image_thumbnail: assets/images/posts/1997/north-of-niagara.jpg
 ---
 

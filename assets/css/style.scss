@@ -1000,6 +1000,11 @@
   }
 }
 @media only screen and (max-width: 800px) {
+
+  .widget-text {
+    display:none;
+  }
+
   .site-branding {
     -ms-flex: 0 1 auto;
     -webkit-flex: 0 1 auto;
@@ -1094,6 +1099,7 @@
 
 }
 @media only screen and (max-width: 360px) {
+
   .featured-posts {
     margin-bottom: 3.75em;
     padding-bottom: 0;

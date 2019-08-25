@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heavenly Voices'
-tags: [ LostEden1, Dossier ]
+tags: [ LostEden1, Dossier, Musique ]
 featured_image: assets/images/posts/1997/dossier-heavenly-voices.jpg
 dossier: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Soirée Thema sur Arte: Anima Nippon"
-tags: [ LostEden2 ]
+tags: [ LostEden2, Chronique ]
 featured_image_thumbnail: assets/images/posts/1998/arte.jpg
 ---
 

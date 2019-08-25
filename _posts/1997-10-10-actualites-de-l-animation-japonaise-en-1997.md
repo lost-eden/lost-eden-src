@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actualités de l'animation japonaise de la rentrée 1997"
-tags: [ LostEden1 ]
+tags: [ LostEden1, Anime ]
 featured_image_thumbnail: assets/images/posts/1997/souvenirs-actualites-de-l-animation-japonaise-en-1997.jpg
 ---
 

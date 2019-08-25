@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jack or Jive"
-tags: [ LostEden1, musique ]
+tags: [ LostEden1, Musique ]
 featured_image_thumbnail: assets/images/posts/1997/jack-or-jive.jpg
 ---
 

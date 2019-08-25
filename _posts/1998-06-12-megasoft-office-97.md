@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Megasoft Office 97"
-tags: [ LostEden2, musique ]
+tags: [ LostEden2, Musique ]
 featured_image_thumbnail: assets/images/posts/1998/megasoft_office_97.jpg
 --- 
 

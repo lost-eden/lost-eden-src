@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ode à la page blanche'
-tags: [ LostEden2 ]
+tags: [ LostEden2, Chronique ]
 ---
 
 **Le texte qui va suivre est un petit clin d'oeuil à un magazine que seuls les plus vieux d'entre-vous doivent connaître (et encore): "Abus dangereux" et un hommage à tous ceux qui se sont retrouvés sans inspiration devant leur clavier alors qu'ils avaient un article à écrire pour le lendemain.**

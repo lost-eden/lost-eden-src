@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avenir de l’animation japonaise en France'
-tags: [ LostEden1 ]
+tags: [ LostEden1, Chronique ]
 featured_image_thumbnail: assets/images/posts/1997/porco_rosso_thumbnail.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chandeen, The Waking Dreams'
-tags: [ LostEden1, musique ]
+tags: [ LostEden1, Musique ]
 featured_image_thumbnail: assets/images/posts/1997/chandeen-the-waking-dreams.jpg
 ---
 

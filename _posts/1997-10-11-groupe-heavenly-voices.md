@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Groupes Heavenly Voices"
-tags: [ LostEden1, musique ]
+tags: [ LostEden1, Musique ]
 featured_image_thumbnail: assets/images/posts/1997/heavenlyvoicesv.jpg
 ---
 

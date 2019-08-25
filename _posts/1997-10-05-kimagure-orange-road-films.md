@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kimagure Orange Road, les films"
-tags: [ LostEden1 ]
+tags: [ LostEden1, Anime ]
 featured_image_thumbnail: assets/images/posts/1997/kimagure-orange-road-film-1.jpg
 ---
 

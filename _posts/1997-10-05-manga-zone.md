@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Manga Zone'
-tags: [ LostEden1 ]
+tags: [ LostEden1, Chronique ]
 featured_image_thumbnail: assets/images/posts/1997/mangazone.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Love Spirals Downwards, Ever'
-tags: [ LostEden1, musique ]
+tags: [ LostEden1, Musique ]
 featured_image_thumbnail: assets/images/posts/1997/love-spirals-downwards-ever.jpg
 ---
 

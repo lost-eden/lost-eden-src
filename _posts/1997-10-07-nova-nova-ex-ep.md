@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nova Nova, Ex-Ep'
-tags: [ LostEden1, musique ]
+tags: [ LostEden1, Musique ]
 featured_image_thumbnail: assets/images/posts/1997/novanova_exep.jpg
 ---
 

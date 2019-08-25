@@ -5,7 +5,7 @@ title: Historique des Fanzines
 
 ### Lost Eden 1
 
-![Lost Eden 1](/assets/images/pages/losteden1.jpg)
+[![Lost Eden 1](/assets/images/pages/losteden1.jpg)]({% link tag/losteden1/index.html %})
 
 **Slogan**: Le seul fanzine qui vous fait pousser des ailes
 
@@ -19,10 +19,9 @@ title: Historique des Fanzines
 
 - *Musique*: News, Chronique, Adresses, Dossier Heavenly Voices: Groupes Heavenly Voices, Chandeen, Love Spirals Downwards, Jack or Jive
 
-
 ### Lost Eden 2
 
-![Lost Eden 2](/assets/images/pages/losteden2.jpg)
+[![Lost Eden 2](/assets/images/pages/losteden2.jpg)]({% link tag/losteden2/index.html %})
 
 **Slogan**: Le seul fanzine qui finit bien
 
