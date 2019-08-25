@@ -3,6 +3,7 @@ layout: post
 title: "Harold Budd"
 tags: [ LostEden2, Musique ]
 featured_image_thumbnail: assets/images/posts/1998/haroldbudd.jpg
+author: Erwan
 ---
 
 **Artiste mythique de la scène New-Age/Ambient, Harold BUDD fait parti de ces musiciens qui affichent un réel désir d'être à la fois différent et créatif.**

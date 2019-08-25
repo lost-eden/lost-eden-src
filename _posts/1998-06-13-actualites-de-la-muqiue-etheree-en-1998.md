@@ -3,6 +3,7 @@ layout: post
 title: "Actualités de la musique éthérée de l'été 1998"
 tags: [ LostEden2, Musique ]
 featured_image_thumbnail: assets/images/posts/1998/actualites-de-la-muqiue-etheree-en-1998.jpg
+author: Erwan
 ---
 
 Le dernier album de *In The Nursery* est sorti en avril dernier chez *ITN Corp*. Son nom, *The Living Tongue* (« la langue vivante »  en VF). Ils ont fait une série de concerts en Europe pour promouvoir leur album (dont un concert en France à *la Locomotive* le 18 mai dernier).

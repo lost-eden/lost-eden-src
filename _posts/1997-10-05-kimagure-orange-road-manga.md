@@ -3,6 +3,7 @@ layout: post
 title: 'Kimagure Orange Road, le manga'
 tags: [ LostEden1, Anime ]
 featured_image_thumbnail: assets/images/posts/1997/kimagure-orange-road-manga_thumbnail.jpg
+author: Erwan
 ---
 
 L‘auteur de Kimagure Orange Road (littéralement « Capricieuse route orange ») est Izumi MATSUMOTO. Il commença la série en 1984 dans les pages de l’hebdomadaire Shonen Jump de la Shueisha (tiré à plusieurs millions d’exemplaires). Kimagure Orange Road, comme toute bande dessinée à succès de Shonen Jump, est sorti par la suite sous forme de volumes (chaque volume comprenant environ 190 pages) dans la collection Jump Comics. 

@@ -3,6 +3,7 @@ layout: post
 title: "In the Nursery"
 tags: [ LostEden2, Musique ]
 featured_image_thumbnail: assets/images/posts/1998/in-the-nursery.jpg
+author: Erwan
 ---
 
 **Musique pour des films qui n’existent pas, telle pourrait être la meilleur définition du travail de *In The Nursery*, groupe anglais qui n’a cesser de nous faire vibrer à travers leur compositions romantiques et mystiques.**

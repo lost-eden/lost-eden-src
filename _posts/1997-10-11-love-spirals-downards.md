@@ -3,6 +3,7 @@ layout: post
 title: "Love Spirals Downwards"
 tags: [ LostEden1, Musique ]
 featured_image_thumbnail: assets/images/posts/1997/love-spirals-downards_thumbnail.jpg
+author: Erwan
 ---
 
 **Love Spirals Downwards est l'exemple parfait de l'Heavenly Voices: guitares aériennes à la Cocteau Twins, musiques éthérées et voix paradisiaque. Groupe féerique pour musique de rêve.**

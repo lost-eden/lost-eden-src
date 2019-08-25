@@ -3,6 +3,7 @@ layout: post
 title: "Kimagure Orange Road, les goodies"
 tags: [ LostEden1, Anime ]
 featured_image_thumbnail: assets/images/posts/1997/kimagure-orange-road-goodies.jpg
+author: Erwan
 --- 
 
 Kimagure Orange Road est certainement l’une des séries qui possède le plus de produits dérivés (posters, shitajikis (sous-main), maquette…). Aujourd’hui, les seuls goods que l’on puisse trouver sur la série (je ne parle pas du second film) sont les posters et les CD. 

@@ -3,6 +3,7 @@ layout: post
 title: 'Avenir de l’animation japonaise en France'
 tags: [ LostEden1, Chronique ]
 featured_image_thumbnail: assets/images/posts/1997/porco_rosso_thumbnail.jpg
+author: Erwan
 ---
 
 **Voici un article de Lost Eden datant de 1997 qui retranscrit bien l’ambiance d’une époque et permet de voir tout le chemin qui a été parcouru pour une reconnaissance de l’animation japonaise en France.**

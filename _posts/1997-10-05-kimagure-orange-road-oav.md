@@ -3,6 +3,7 @@ layout: post
 title: "Kimagure Orange Road, les OAV"
 tags: [ LostEden1, Anime ]
 featured_image_thumbnail: assets/images/posts/1997/kimagure-orange-road-oav.jpg
+author: Erwan
 ---
 
 Après le succès de la série sont sorties dans le commerce de nombreuses OAV (de 25′ chacune). Elles reprennent toutes certains passages du manga. Bien que se situant après la série (Kyosuke se dit avoir 16 ans), tout se passe comme si l’aveu d’amour de Madoka pour Kyosuke (à la fin de la série) n’avait pas existé. De qualité supérieure à la série (à part l’épisode pilote), ces OAV constituent un excellent investissement pour ceux qui voudraient découvrir la série.

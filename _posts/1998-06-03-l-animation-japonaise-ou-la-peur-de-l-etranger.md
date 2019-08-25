@@ -3,6 +3,7 @@ layout: post
 title: "L'animation japonaise ou la peur de l'étranger"
 tags: [ LostEden2, Chronique ]
 featured_image_thumbnail: assets/images/posts/1998/l-animation-japonaise-ou-la-peur-de-l-etranger.jpg
+author: Erwan
 ---
 
 **Il y a 10 ans l'accueil réservé aux dessins animés japonais étaient encore bien hostile, il fallait voir le nombre de journalistes qui critiquaient ces productions venues d'un pays bien trop différent à leurs yeux. Les préjugés étaient tenaces (même s'il en existe toujours, ils sont bien plus modérés qu'avant), d'où ce coup de gueule.**

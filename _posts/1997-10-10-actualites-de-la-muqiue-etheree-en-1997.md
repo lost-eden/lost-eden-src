@@ -3,6 +3,7 @@ layout: post
 title: "Actualités de la musique éthérée de la rentrée 1997"
 tags: [ LostEden1, Musique ]
 featured_image_thumbnail: assets/images/posts/1997/actualites-de-la-muqiue-etheree-en-1997.jpg
+author: Erwan
 ---
 
 Anne CLARK, chanteuse *Cold-Wave* qui a sorti il y a 2 ans le très bel album *To Love and Be Loved* [*SPV recordings*], revient en force avec *Worldprocessing the remix Project* [*Columbia / Sony*], un album où de grands artistes de la scène Techno retravaillent plusieurs titres du répertoire d'Anne CLARK. Le titre phare de l'album *Our Darkness*, remixé par les français de *Total Eclipse*, se paît même le luxe de passer régulièrement sur *Skyrock*. On retrouve également le groupe de dub français *Mouse On Mars* ou encore le célèbre Sven VÄTH .

@@ -3,6 +3,7 @@ layout: post
 title: "Actualités de l'animation japonaise de la rentrée 1997"
 tags: [ LostEden1, Anime ]
 featured_image_thumbnail: assets/images/posts/1997/souvenirs-actualites-de-l-animation-japonaise-en-1997.jpg
+author: Erwan
 ---
 
 Cela fait presque vingt ans que l'on avait pas vu une rentrée aussi pauvre en matière de Dessins Animés Japonais. En effet, après la disparition du Club Dorothée du petit écran, on pouvait s'attendre au pire en ce qui concerne les DAN. Ce qui est le cas: les seules séries japonaises à être diffusées à la télévision (hors câble) sont *Tico et Zorro*. L'avenir du DAN sur les chaînes hertziennes s'annonce donc bien sombre.

@@ -3,6 +3,7 @@ layout: post
 title: "Travelling Tokyo"
 tags: [ LostEden2, Chronique ]
 featured_image_thumbnail: assets/images/posts/1998/traveliingtokyo_thumbnail.jpg
+author: Erwan
 --- 
 
 **A la fin des années 90, peu de films d'animation japonais étaient diffusés au cinéma en France (à ma connaissance: Akira, Porco Rosso et Ghost in the Shell). C'est pourquoi un festival comme celui de Travelling Tokyo en 1998 pouvait être considéré à bien des égards comme un événement majeur pour la reconnaissance du cinéma japonais d'animation.**

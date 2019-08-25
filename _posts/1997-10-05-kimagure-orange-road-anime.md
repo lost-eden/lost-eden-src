@@ -3,6 +3,7 @@ layout: post
 title: "Kimagure Orange Road, l'anime"
 tags: [ LostEden1, Anime ]
 featured_image_thumbnail: assets/images/posts/1997/kimagure-orange-road-anime.jpg
+author: Erwan
 ---
 
 Kimagure Orange Road (KOR) fut réalisé au studio PIERROT, célèbre pour ses nombreuses séries à la « magical girls » (Creamy merveilleuse Creamy (Creamy Mami)) et est plus connu en France pour avoir réalisé Les Mystérieuses citées D’or (Taiko no ko Esteban) (qui était une coproduction franco-japonaise). S’attelèrent à la tâche de grands noms de l’animation japonaise comme Kenji TERADA (Cat’s Eye, Space Adventure Cobra) pour le scénario, Shiro SAGISU (Nadia et le secret de l’eau bleu (Fushigi no umi no Nadia), Jeanne et Serge (Attacker You!)) pour la musique ou Akemi TAKADA (Lamu (Urusey YATSURA), Juliette je t’aime (Maison Ikkoku), Creamy merveilleuse Creamy (Creamy Mami)) pour la création des personnages (Character Designer). 

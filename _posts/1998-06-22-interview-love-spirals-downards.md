@@ -3,6 +3,7 @@ layout: post
 title: 'Interview de Love Spirals Downards'
 tags: [ LostEden2, Musique ]
 featured_image_thumbnail: assets/images/posts/1998/interview-love-spirals-downards.jpg
+author: Erwan
 ---
 
 **Voici la traduction d’une interview que *Love Spirals Downards* a faite en 1995 dans le magazine américain *Muse*. Groupe *Heavenly Voices* par excellence, *Love Spirals Downwards* a su faire une musique encore plus éthérée que celle des *Cocteaux Twins*.**

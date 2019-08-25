@@ -3,6 +3,7 @@ layout: post
 title: "Soirée Thema sur Arte: Anima Nippon"
 tags: [ LostEden2, Chronique ]
 featured_image_thumbnail: assets/images/posts/1998/arte.jpg
+author: Erwan
 ---
 
 **Retour en arrière sur la première soirée consacrée aux mangas et à l'animation japonaise en France (sur chaîne hertzienne, comme MCM l'avait fait un peu avant sur le câble).**
