@@ -19,7 +19,7 @@ author: Motenai
 
 #### [La série télévisée]({% post_url 1998-06-27-city-hunter-la-serie-tv %})
 
-- Une grande sage
+- Une grande saga
 - Situation & Evolution
 - Un peu de technique
 - Les différences avec le manga
