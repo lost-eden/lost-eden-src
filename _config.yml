@@ -42,8 +42,6 @@ navigation:
     url: /tag/chronique/index.html
   - text: Fanzines
     url: /fanzines.html
-  - text: A propos
-    url: /about.html
   - text: Contacts
     url: /contact.html
 
