@@ -6,7 +6,7 @@ featured_image_thumbnail: assets/images/posts/1998/city-hunter-tv-01.jpg
 author: Motenai
 ---
 
-Si on demandait à des passants dans la rue s’ils connaissent *City Hunter*, la majorité des réponses seraient négatives. Par contre, si la question posée concerne *Nicky Larson*, le résultat serait plus à la hauteur. Après les péripéties de Ryo en manga, voici donc l’histoire de son adaptation sur le petit écran.
+**Si on demandait à des passants dans la rue s’ils connaissent *City Hunter*, la majorité des réponses seraient négatives. Par contre, si la question posée concerne *Nicky Larson*, le résultat serait plus à la hauteur. Après les péripéties de Ryo en manga, voici donc l’histoire de son adaptation sur le petit écran.**
 
 ![City Hunter](assets/images/posts/1998/city-hunter-tv-01.jpg)
 
