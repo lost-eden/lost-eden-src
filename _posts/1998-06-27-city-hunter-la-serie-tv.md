@@ -142,3 +142,33 @@ Et il a aussi participé plus récemment au doublage de *City Hunter 96, Secret 
   - Reika NOGAMI: Yoshino TAKAMORI
   - Miki: Mami KOYAMA
 - Producteur: Sunrise
+
+#### Les Génériques
+
+Il existe en tout 19 génériques sur *City Hunter* (11 pour les 4 séries et 8 entre le film, les OAV et les 2 TV-spécial) ce qui fait en moyenne 2,11 génériques par œuvres (séries et autres) (au secours Vincent à définitivement pété les plombs !, **NDErwan**).
+
+*City Hunter*
+- Générique de début: *City Hunter ~Ai Yo Kienaide* interprété par Kahoru KOHIRUMAKI (épisodes 1 à 26). Le second générique est *Go Go Heaven*, par Yoshiyuki OSAWA (27 à 51)
+- Générique de fin: *Get Wild* de *TM Network*
+ 
+*City Hunter 2*
+- Générique de début: *Angel Night*, par *Psy-S* (52 à 77) et *Sara*, de *Fence of Defense* (78 à 114)
+- Générique de fin: *Super Girl* par Yasuyuki OKAMURA (52 à 88) et *Still Love Her* de *TM Network* (89 à 114)
+
+*City Hunter 3*
+- Générique de début: *Running To Horizon* par Tetsuya KOMURO (115 à 127)
+- Générique de fin: *Atsuku Naretara*, par Kiyomi Suzuki
+ 
+*City Hunter ’91*
+- Générique de début: *Down Town Game* par *Gwinko* (128 à 140)
+- Générique de fin: *Smile and Smile* par *Aura*
+
+Tous les génériques de la série se retrouvent sur les albums et les compilations dédiées à *City Hunter*. Ces CD forment une collection prestigieuse de musiques d’une très grande qualité, très prisée et qui commence à se faire rare. Il est certain que la bande son (BGM pour être correct) a grandement contribué au succès de la série, mais nous en reparlerons une prochaine fois. Et les génériques français, me direz-vous  Et bien il y en a deux, qualité *AB production* mais sans le Minet pour une fois (ouf!) C’est Jean-Paul CESARI qui nous chante les exploits de Nicky Larson ...qui craint personne (désolé, j’ai pas pu m’en empêcher). Côté images, le 1e générique reprend des images des épisodes 1 à 3 , et le second des épisodes aux environs du 71e (inclus).
+
+#### Palmares
+
+Tant qu’à faire, je me suis dit qu’en guise de conclusion, on pourrait récapituler les récompenses reçues par Ryo et ses amis, aussi bien au Japon qu’en France. Ainsi en 1990, Ryo était élu deuxième meilleur personnage de tous les temps (derrière *Nausicaa*) à l’anime grand prix d’*Animage*. Akira KAMIYA lui est resté meilleur doubleur pendant 11 ans et notamment grâce à *City Hunter*. Plus près de nos contrées, dans l’anime grand prix d’Animeland 1997, Ryo règne en maître sur la catégorie meilleur personnage masculin, tout comme Vincent ROPION chez les doubleurs. La série est bien placée à la 6e place, Kaori est classée 7e, le TV-spécial est entré directement à la 8e place, et le générique *Get Wild* résiste bien, en 6e position. Bref si je ne vous est pas encore convaincu de l’intérêt de cette série c’est que soit je suis un piètre rédacteur (merci, c’est sympa), soit vous êtes vraiment de mauvaise foi (si, si, avouez-le). Bon, ben moi j’ai pas grand chose à rajouter (en fait, je me réserve pour la prochaine fois). Je vous attend donc dans le prochain numéro pour la suite du dossier. Sayonara!
+
+*Grand merci à Nico.*
+
+*Sources*: *Animeland*, *Jam*, *SeiGanMag*, http://www.anipike.com.

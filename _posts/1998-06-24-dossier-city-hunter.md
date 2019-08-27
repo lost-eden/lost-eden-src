@@ -26,13 +26,13 @@ author: Motenai
 - La version française à la Momo
 - Faut-il en vouloir à Maurice Sarfati?
 - City Hunter, fiche technique
-- Paroles des 1er et 2nd Génériques
 - Les génériques
 - Palmares
 
-#### Le manga
+#### [Chronologie Hojo]({% post_url 1998-06-28-chronologie-hojo %})
 
-- Chronologie Hojo
+#### [Le manga]({% post_url 1998-06-29-city-hunter-manga %})
+
 - Introduction
 - Evolution du style de Tsukaja HOJO
 - Realité illusoire...

@@ -18,6 +18,11 @@ authors: {
     'name': 'Motenaï',
     'image': 'motenai.jpg',
     'bio': "Rédacteur dans Lost Eden depuis le numéro 2."
+  },
+   'Christelle': {
+    'name': 'Christelle',
+    'image': 'christelle.jpg',
+    'bio': "Rédactrice dans Lost Eden depuis le numéro 2."
   }
 }
 
