@@ -2,7 +2,7 @@
 layout: post
 title: "City Hunter, le manga"
 tags: [ LostEden2, Anime ]
-featured_image_thumbnail: assets/images/posts/1998/city-hunter-manga.jpg
+featured_image_thumbnail: assets/images/posts/1998/city-hunter-manga_thumbnail.jpg
 author: Christelle
 ---
 
