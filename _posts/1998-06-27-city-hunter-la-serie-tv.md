@@ -143,7 +143,7 @@ Et il a aussi participé plus récemment au doublage de *City Hunter 96, Secret 
   - Miki: Mami KOYAMA
 - Producteur: Sunrise
 
-#### Les Génériques
+#### Les génériques
 
 Il existe en tout 19 génériques sur *City Hunter* (11 pour les 4 séries et 8 entre le film, les OAV et les 2 TV-spécial) ce qui fait en moyenne 2,11 génériques par œuvres (séries et autres) (au secours Vincent à définitivement pété les plombs !, **NDErwan**).
 

@@ -19,7 +19,7 @@ Première partie du gros dossier consacré au manga *City Hunter* de Tsukasa HOJ
 #### [Fiche d'identités]({% post_url 1998-06-26-city-hunter-fiche-identites %})
 
 - Ryo SAEBA
-- Kaori Makimura
+- Kaori MAKIMURA
 
 #### [La série télévisée]({% post_url 1998-06-27-city-hunter-la-serie-tv %})
 
