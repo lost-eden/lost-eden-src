@@ -6,6 +6,8 @@ featured_image_thumbnail: assets/images/posts/1998/ryo.jpg
 author: Motenai
 ---
 
+**Présentation des personnages principaux de *City Hunter*.**
+
 #### Ryo Saeba (Nicky larson)
 
 ![Ryo](assets/images/posts/1998/ryo.jpg)

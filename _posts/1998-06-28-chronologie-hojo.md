@@ -6,6 +6,8 @@ featured_image_thumbnail: assets/images/posts/1998/chronologie.jpg
 author: Motenai
 ---
 
+**Liste la plus exhaustive possible des mangas et des animes tirés de l'oeuvre de Tsukasa HOJO.**
+
 <table>
 <thead>
 <tr>

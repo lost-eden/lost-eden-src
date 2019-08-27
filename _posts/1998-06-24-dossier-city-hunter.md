@@ -10,7 +10,11 @@ dossier: true
 author: Motenai
 ---
 
+Première partie du gros dossier consacré au manga *City Hunter* de Tsukasa HOJO.
+
 <!--more-->
+
+## Sommaire
 
 #### [Fiche d'identités]({% post_url 1998-06-26-city-hunter-fiche-identites %})
 
