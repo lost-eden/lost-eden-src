@@ -34,3 +34,17 @@ title: Historique des Fanzines
 - *Animation Japonaise*: Le coin des croqueurs, Courrier, Adresses, News, Point de Vue / Coup de Gueule, Le Saviez-vous ?, Festival Travelling Tokyo, Soirée théma sur Arte, Dossier City Hunter (1ère partie)
 
 - *Musique*: News, Chronique, Adresses, Harold Budd, In the Nursery, Interview de Love Spirals Downwards
+
+### Lost Eden 3
+
+[![Lost Eden 3](/assets/images/pages/losteden3.jpg)]({% link tag/losteden3/index.html %})
+
+**Slogan**: Le seul fanzine avec qui il fait bon dormir...
+
+**Date de parution**: automne 1998
+
+**Equipe**: Erwan, Motenaï & Kaori
+
+**Au sommaire de ce numéro:**
+
+- *Animation Japonaise*: Courrier, Point de Vue, Coup de Gueule, Adresses, Lexique, 4C, News, Dossier City Hunter 2nd partie, Karaoke, Horoscope.

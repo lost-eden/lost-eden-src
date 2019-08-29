@@ -28,7 +28,7 @@ authors: {
 
 # Contact form setings
 email: erwan.carriou@mac.com
-contact_page_description: "Pour envoyer un message à l'équipe, vous pouvez nous <a href='mailto:erwan.carriou@mac.com'>envoyer un mail</a> ou compléter le formulaire suivant:"
+contact_page_description: "Pour envoyer un message à l'équipe, compléter le formulaire suivant:"
 thankyou_page_description: "Votre message a bien été envoyé!"
 
 # Social links
