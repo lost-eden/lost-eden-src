@@ -24,4 +24,4 @@ author: Erwan
 
 >"C'est de la balle ce truc! Ca tue sa race!" <cite>― Un jeune, France ―</cite>
 
->"Lost Eden? Ca ne marchera jamais! Et croyez-moi, les intuitions ça me connait!" <cite>― Rédacteur en Chef de L'Equipe, France ―</cite>
+>"*Lost Eden*? Ca ne marchera jamais! Et croyez-moi, les intuitions ça me connait!" <cite>― Rédacteur en Chef de L'Equipe, France ―</cite>
