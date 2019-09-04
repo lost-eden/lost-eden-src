@@ -3,10 +3,10 @@ layout: post
 title: "Horoscope"
 tags: [ LostEden3, Chronique ]
 featured_image_thumbnail: assets/images/posts/1998/baba.jpg
-author: Christelle
+author: Kaori
 ---
 
-**Motenaï, Christelle et moi on se demandait ce qui manquait à *Lost Eden* pour être parfait. Et après maintes heures de cogitations cérébrales intenses, on a finalement réussi à trouver LA chose qui ferait de *Lost Eden* LE fanzine de japanimation par excellence et que personne d’autre n’avait osé faire: l’horoscope (faut dire aussi qu’on était un peu crevé)!**
+**Motenaï, Kaori et moi on se demandait ce qui manquait à *Lost Eden* pour être parfait. Et après maintes heures de cogitations cérébrales intenses, on a finalement réussi à trouver LA chose qui ferait de *Lost Eden* LE fanzine de japanimation par excellence et que personne d’autre n’avait osé faire: l’horoscope (faut dire aussi qu’on était un peu crevé)!**
 
 #### BELIER : 21 mars-20 avril (Signe de feu)
 
@@ -93,4 +93,4 @@ Il y a du mouvement dans votre vie, ce qui vous convient, puisque vous préfére
 - **Les pierres précieuses**: la pierre de Lune et l‘améthyste. 
 
 
-*Madame Christelle, Spécialiste de la Voyance et du Futur Proche (pour toute consultation, envoyez votre carte bleue avec votre numéro bancaire)*.
+*Madame Kaori, Spécialiste de la Voyance et du Futur Proche (pour toute consultation, envoyez votre carte bleue avec votre numéro bancaire)*.

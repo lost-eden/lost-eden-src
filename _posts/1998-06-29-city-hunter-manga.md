@@ -3,7 +3,7 @@ layout: post
 title: "City Hunter, le manga"
 tags: [ LostEden2, Anime ]
 featured_image_thumbnail: assets/images/posts/1998/city-hunter-manga_thumbnail.jpg
-author: Christelle
+author: Kaori
 ---
 
 **Tsukasa HOJO est surtout connu dans nos contrées pour les récits de *Cat’s Eye* et *City Hunter*. Avant de débuter le célèbre manga qu’est *City Hunter* (qui a dit "je ne connais pas"?) en décembre 1985, Hojo avait auparavant publié des histoires courtes où Ryo était présent.**
