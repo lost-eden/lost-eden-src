@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chronologie des clientes de Ryo et Kaori"
+title: "City Hunter, chronologie des clientes de Ryo et Kaori"
 tags: [ LostEden3, Anime ]
 featured_image_thumbnail: assets/images/posts/1998/city-hunter-clientes.jpg
 author: Kaori

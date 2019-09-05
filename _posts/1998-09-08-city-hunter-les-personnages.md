@@ -6,7 +6,7 @@ featured_image_thumbnail: assets/images/posts/1998/city-hunter-personnages.jpg
 author: Kaori
 ---
 
-**Les personnages des clientes de *City Hunter* sont généralement basés sur le même principe. Physiquement, elles sont d’une beauté parfaite et ont un corps de déesse. C’est d’ailleurs pour cette raison que Ryo accepte de les protéger. Néanmoins, Ryo ayant un cœur en or malgré ses allures d’hommes invincible, il accepte quelquefois d’autres personnes.**
+**Nous avons vu les personnages de Ryo et Kaori dans le numéro 2 de *Lost Eden* avec leur description et leur psychologie. Nos deux héros ne sont pas seuls dans la  lutte contre la pègre et des gens tels que Saeko, Umibozu, Miki... ont une place non négligeable dans le manga. De plus, les jeunes et jolies clientes que sauve Ryo reviennent parfois au fil du manga (telle Kasumi Asô, la belle voleuse-fantôme, qui apparaît dans le n°8 du manga, puis quelques années plus tard dans le n°9). Nous allons faire ici la description des personnages des plus importants de la série.**
 
 #### Hideyuki Makimura
 
