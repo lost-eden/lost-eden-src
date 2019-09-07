@@ -50,7 +50,7 @@ On ne s’étonne pas non plus des dettes de Kaori et Ryo lorsqu’on voit leur 
 
 Tous ceux du milieu le connaissent, au moins par sa réputation (autant en tant que professionnel invincible que pour son attirance pour les femmes). Beaucoup de ses ennemis ont essayé de le tuer, mais en vain.
 
-Une des caractéristiques du manga est l’humour délirant que HOJO déploie: mimiques, "mokkoli" (le "coucou" de Ryo), cascades, coups de massues géantes et autres trouvailles (ex: électrochocs) de Kaori. Cet humour n’est pas seulement là pour le plaisir, il a aussi la fonction de dédramatiser les histoires, car le monde de *City Hunter* est rempli de morts, de drames et d’attentats (parfois même à la pudeur... **NDCorrecteur**). D’ailleurs, à chaque fois que la situation vire au mélodrame (la jeune fille qui a perdu son petit ami par exemple), Ryo se sert de son « coucou » pour faire oublier les mauvais souvenirs, ce qui lui amène des coups de massue de la part de Kaori.
+Une des caractéristiques du manga est l’humour délirant que HOJO déploie: mimiques, "mokkoli" (le "coucou" de Ryo), cascades, coups de massues géantes et autres trouvailles (ex: électrochocs) de Kaori. Cet humour n’est pas seulement là pour le plaisir, il a aussi la fonction de dédramatiser les histoires, car le monde de *City Hunter* est rempli de morts, de drames et d’attentats (parfois même à la pudeur... **NDCorrecteur**). D’ailleurs, à chaque fois que la situation vire au mélodrame (la jeune fille qui a perdu son petit ami par exemple), Ryo se sert de son "coucou" pour faire oublier les mauvais souvenirs, ce qui lui amène des coups de massue de la part de Kaori.
 
 #### Le personnage de Ryo
 

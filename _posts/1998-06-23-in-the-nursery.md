@@ -89,13 +89,12 @@ Si vous n'aviez qu'un seul album à acheter: *Deco*. Leur album le plus romantiq
 
 #### Collaborations
 
-- Sabres of Paradise « Haunted Dancehall » [Warp]
-- Two Lone Swordsmen «Swimming Not Skimming » [Emission Audio Output] 
+- Sabres of Paradise "Haunted Dancehall" [Warp]
+- Two Lone Swordsmen "Swimming Not Skimming" [Emission Audio Output] 
 
 #### Utilisation dans des films ou bandes-annonces
 
 - Entretient avec un vampire
 - Street Fighter 2 (le film d’animation)
 - la série Nikita (dont France2 ne passa que quelques épisodes)
-- le film daubesque avec Claudia Schiffer (dont j’ai oublié le nom)
 - De Beaux Lendemains.

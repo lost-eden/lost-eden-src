@@ -6,7 +6,7 @@ featured_image_thumbnail: assets/images/posts/1998/actualites-de-la-muqiue-ether
 author: Erwan
 ---
 
-Le dernier album de *In The Nursery* est sorti en avril dernier chez *ITN Corp*. Son nom, *The Living Tongue* (« la langue vivante »  en VF). Ils ont fait une série de concerts en Europe pour promouvoir leur album (dont un concert en France à *la Locomotive* le 18 mai dernier).
+Le dernier album de *In The Nursery* est sorti en avril dernier chez *ITN Corp*. Son nom, *The Living Tongue* ("la langue vivante"  en VF). Ils ont fait une série de concerts en Europe pour promouvoir leur album (dont un concert en France à *la Locomotive* le 18 mai dernier).
 
 Doivent sortir cet été le 4éme album de *Chandeen*, *Love at First Sight* et de *Love Spirals Downwards*.
 

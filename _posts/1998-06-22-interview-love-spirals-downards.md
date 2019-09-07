@@ -12,7 +12,7 @@ author: Erwan
 
 **Le Label *Projekt* dit que vous produisez de la musique étherée, gothique et Dark Ambiant. Quelle terme correspond le mieux à votre musique?**
 
-**Suzanne**: Ca m’est égal d’être attachée à la musique éthérée au point d’être appelé un groupe « à la 4 AD ». Cela est trop précis. La musique éthérée est descriptive, mais d’une manière plus vague.
+**Suzanne**: Ca m’est égal d’être attachée à la musique éthérée au point d’être appelé un groupe "à la 4 AD". Cela est trop précis. La musique éthérée est descriptive, mais d’une manière plus vague.
 
 **Ryan**: Cela pourrait être *The Moon Seven Times*, cela pourrait être nous, cela pourrait être encore *The Sundays*. C’est un terme très large.
 
@@ -26,11 +26,11 @@ author: Erwan
 
 **Quelle a été votre première chanson que vous avez faites sérieusement ensemble?**
 
-**Suzanne**: La première chanson que j’ai vraiment faite fut *Forgo* sur *Idylls*, notre premier album. Pas vraiment expérimental ou quoi que ce soit d’autres. Nous avons simplement commencer à la faire, j’ai simplement commencer à chanter et, « Attendez !C’est pas mal ! ». Nous l’avons ensuite envoyé à *Projekt*.  
+**Suzanne**: La première chanson que j’ai vraiment faite fut *Forgo* sur *Idylls*, notre premier album. Pas vraiment expérimental ou quoi que ce soit d’autres. Nous avons simplement commencer à la faire, j’ai simplement commencer à chanter et, "Attendez !C’est pas mal !". Nous l’avons ensuite envoyé à *Projekt*. 
 
 **Ryan**: En fait, une fois nos 3 première chansons finies, nous les avons envoyées à quelques labels. C’est tout ce que nous avons jamais fait pour être signés sur un label. 
 
-**Suzanne**: Nous ne conservons pas de chansons pour les ressortir plus tard, comme la  plus part  des  groupes. (...)  Toutes  nos chansons sont celles que nous avons finies par sortir. Nous ne conservons pas les moutures. Si après une heure nous disons « Cette chansons ne marche pas »,  nous nous soucions pas de la faire.
+**Suzanne**: Nous ne conservons pas de chansons pour les ressortir plus tard, comme la  plus part  des  groupes. (...)  Toutes  nos chansons sont celles que nous avons finies par sortir. Nous ne conservons pas les moutures. Si après une heure nous disons "Cette chansons ne marche pas",  nous nous soucions pas de la faire.
 
 **Quelle est la part de composition et d’improvisation dans votre musique?**
 
@@ -48,7 +48,7 @@ author: Erwan
 
 **Suzanne**: C’est une question intéressante. Il m’est beaucoup plus difficile d’écrire des paroles qui sont personnelles que d’écrire des paroles sans sens des parce que dans le premier cas je m’implique dans des choses que je révèle sue moi-même. Je ne sais pas jusqu’à quel point je me sentirais à mon aise en m’exprimant de cette façon ou en mettant cela en musique.
 
-**Ryan**: Est-ce que c’est parce que vous ne voulez pas vous impliquer là-dedans ou est-ce que vous ressentez que cela n’a rien à faire dans la musique. Je pense que c’est ces deux choses à la fois. A d’autres égards, je ne veux pas que l’on puisse dater la musique. Je ne désire pas devoir écouter des chansons et repenser à des événements passés et me dire « Oh, c’était quand j’étais dans cette passe. C’était nul. C’était 1994 ».
+**Ryan**: Est-ce que c’est parce que vous ne voulez pas vous impliquer là-dedans ou est-ce que vous ressentez que cela n’a rien à faire dans la musique. Je pense que c’est ces deux choses à la fois. A d’autres égards, je ne veux pas que l’on puisse dater la musique. Je ne désire pas devoir écouter des chansons et repenser à des événements passés et me dire "Oh, c’était quand j’étais dans cette passe. C’était nul. C’était 1994".
 
 **Suzanne**: J’aime bien cette intemporalité.
 

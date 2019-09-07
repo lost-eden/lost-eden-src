@@ -12,12 +12,12 @@ Après le succès de la série sont sorties dans le commerce de nombreuses OAV (
 
 #### Les différentes OAV de Kimagure Orange Road
 
-- 1988 – Épisode pilote .
-- 1989 –  Les amoureux des neiges (Shiroi Koibitoachi)
-- 1989 – Suspense à Haiwaï (Hawaian Suspens)
-- 1989 – Je suis un chat , je suis un poisson (Waghai na nako de attari osakana de attari)
-- 1990 – Ouragan! Akane, jeune fille métamorphe (Hurricane ! Henshin Shojo Akane)
-- 1990 – Scènes d’amour: Coeur de feu (Koi no Stage Heart on Fire : Haru wa Idols !)
-- 1990 – Scènes d’amour: Coeur de feu (Koi no Stage Heart on Fire : Star Tanjo !)
-- 1991 – Un message de rouge (Rouge no Dengon)
-- 1991 – Une situation dangereuse (Igakenai Situation)
+- 1988 – Épisode pilote
+- 1989 – Les amoureux des neiges (*Shiroi Koibitoachi*)
+- 1989 – Suspense à Haiwaï (*Hawaian Suspens*)
+- 1989 – Je suis un chat, je suis un poisson (*Waghai na nako de attari osakana de attari*)
+- 1990 – Ouragan! Akane, jeune fille métamorphe (*Hurricane ! Henshin Shojo Akane*)
+- 1990 – Scènes d’amour: Coeur de feu (*Koi no Stage Heart on Fire : Haru wa Idols !*)
+- 1990 – Scènes d’amour: Coeur de feu (*Koi no Stage Heart on Fire : Star Tanjo !*)
+- 1991 – Un message de rouge (*Rouge no Dengon*)
+- 1991 – Une situation dangereuse (*Igakenai Situation*)

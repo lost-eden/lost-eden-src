@@ -6,9 +6,9 @@ featured_image_thumbnail: assets/images/posts/1997/kimagure-orange-road-manga_th
 author: Erwan
 ---
 
-L‘auteur de Kimagure Orange Road (littéralement « Capricieuse route orange ») est Izumi MATSUMOTO. Il commença la série en 1984 dans les pages de l’hebdomadaire Shonen Jump de la Shueisha (tiré à plusieurs millions d’exemplaires). Kimagure Orange Road, comme toute bande dessinée à succès de Shonen Jump, est sorti par la suite sous forme de volumes (chaque volume comprenant environ 190 pages) dans la collection Jump Comics. 
+L‘auteur de *Kimagure Orange Road* (littéralement "Capricieuse route orange") est Izumi MATSUMOTO. Il commença la série en 1984 dans les pages de l’hebdomadaire *Shonen Jump* de la Shueisha (tiré à plusieurs millions d’exemplaires). *Kimagure Orange Road*, comme toute bande dessinée à succès de *Shonen Jump*, est sorti par la suite sous forme de volumes (chaque volume comprenant environ 190 pages) dans la collection *Jump Comics*. 
 
-Au début, on voit nettement que MATSUMOTO en est à sa première (véritable) bande dessinée, en effet, les dessins sont parfois maladroits avec des décors trop simples et des personnages très stylisés. Fort heureusement, le dessin va s’améliorer au fur et à mesure des volumes pour arriver à un trait soigné à partir du 8 ème volume (il suffit de voir les très beaux dessins de Madoka que parcourent le manga). La série se termina en 1988 après 18 volumes (ce qui est relativement peu par rapport à la majorité des manga). 
+Au début, on voit nettement que MATSUMOTO en est à sa première (véritable) bande dessinée, en effet, les dessins sont parfois maladroits avec des décors trop simples et des personnages très stylisés. Fort heureusement, le dessin va s’améliorer au fur et à mesure des volumes pour arriver à un trait soigné à partir du 8ème volume (il suffit de voir les très beaux dessins de Madoka que parcourent le manga). La série se termina en 1988 après 18 volumes (ce qui est relativement peu par rapport à la majorité des manga). 
 
 ![Kimagure Orange Road, le manga](assets/images/posts/1997/kimagure-orange-road-manga.jpg#left) 
 

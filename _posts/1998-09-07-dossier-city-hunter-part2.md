@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'City Hunter'
+title: 'City Hunter (2nd partie)'
 tags: [ LostEden3, Dossier, Anime ]
 featured_image_thumbnail: assets/images/posts/1998/city-hunter-intro_thumbnail.jpg
 featured_image: assets/images/posts/1998/city-hunter-intro_thumbnail.jpg
@@ -24,7 +24,7 @@ Seconde partie du gros dossier consacré au manga *City Hunter* de Tsukasa HOJO.
 #### [Les OAV]({% post_url 1998-09-10-city-hunter-les-oav %})
 
 - *Bay City Wars*, le Piège de Cristal japonais
-- Plot of 1.000.000$ 
+- Plot of 1.000.000 $ 
 - Des OAV complémentaires?
 - City Hunter Mini Special
 
