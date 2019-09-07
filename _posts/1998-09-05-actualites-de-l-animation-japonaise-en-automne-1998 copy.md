@@ -38,7 +38,7 @@ R.A.S.
 
 - M6
 
-Après avoir été diffusé sur *Dysney Channel*, *Men in Black*, le dessin animé arrive sur M6 (diffusion: le mercredi après-midi).
+Après avoir été diffusé sur *Disney Channel*, *Men in Black*, le dessin animé arrive sur M6 (diffusion: le mercredi après-midi).
 
 - RTL 9
 
@@ -56,7 +56,7 @@ En septembre est mort le cinéaste japonais le plus connu en dehors du Japon: Ak
 
 *Mononoke Hime* (renommé *The Legend of Ashitaka*) est vraisemblablement repoussé à fin 1999, la sortie du film aux USA ne se faisant qu’en été 1999.
 
-De nombreux films d’animation vont arriver dans les mois à venir: *Excalibur et l’épée magique* (produit par la WARNER), *Le prince d’Égypte* (produit par SPIELBERG), *Mulan* (produit par Walt DYSNEY), *Kiriko la sorcière* (de Michel OCELOT) et *Le château des singes* (de Jean-François LAGUIONIE).  
+De nombreux films d’animation vont arriver dans les mois à venir: *Excalibur et l’épée magique* (produit par la WARNER), *Le prince d’Égypte* (produit par SPIELBERG), *Mulan* (produit par Walt DISNEY), *Kiriko la sorcière* (de Michel OCELOT) et *Le château des singes* (de Jean-François LAGUIONIE).  
 
 En septembre vous avez pu peut-être voir *Tokyo Eyes*, un excellent film français de Jean-Pierre LIMOSIN.
 
