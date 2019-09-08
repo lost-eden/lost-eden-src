@@ -26,7 +26,7 @@ author: Erwan
 
 **Quelle a été votre première chanson que vous avez faites sérieusement ensemble ?**
 
-**Suzanne**: La première chanson que j’ai vraiment faite fut *Forgo* sur *Idylls*, notre premier album. Pas vraiment expérimental ou quoi que ce soit d’autres. Nous avons simplement commencer à la faire, j’ai simplement commencer à chanter et, "Attendez !C’est pas mal !". Nous l’avons ensuite envoyé à *Projekt*. 
+**Suzanne**: La première chanson que j’ai vraiment faite fut *Forgo* sur *Idylls*, notre premier album. Pas vraiment expérimental ou quoi que ce soit d’autres. Nous avons simplement commencer à la faire, j’ai simplement commencer à chanter et, "Attendez ! C’est pas mal !". Nous l’avons ensuite envoyé à *Projekt*. 
 
 **Ryan**: En fait, une fois nos 3 première chansons finies, nous les avons envoyées à quelques labels. C’est tout ce que nous avons jamais fait pour être signés sur un label. 
 

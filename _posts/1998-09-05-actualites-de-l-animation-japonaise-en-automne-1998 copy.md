@@ -16,7 +16,7 @@ Après le "nettoyage" fait l’année dernière, on ne trouve rien de bien inté
 
 - France 2
 
-A venir: *City Hunter (Nicky LARSON)* (!!) et *Les Mystérieuse cités d’or*.  
+A venir: *City Hunter (Nicky LARSON)* et *Les Mystérieuse cités d’or*.  
 
 - France 3
 
@@ -26,7 +26,7 @@ Rediffusion de *Batman et de Superman* (diffusion: le dimanche matin).
 
 Au programme dans *Manga Manga*, l’émission de DAN de Canal+ (diffusion : le dernier mardi du mois en dernière partie de soirée): en septembre, *Crying Freeman* (les OAV), et en octobre *Vampire Princess Myu* (les OAV).
 
-*Calimity Jane* est une excellente série française (chose assez rare pour être signalé) que vous devez absolument voir! (diffusion: le samedi à 18h30).
+*Calimity Jane* est une excellente série française (chose assez rare pour être signalé) que vous devez absolument voir ! (diffusion: le samedi à 18h30).
 
 N’oubliez pas également les nouveaux épisodes des *Simpsons* (diffusion: le samedi à 20h30) et de *Daria*, en codé malheureusement (diffusion: le mercredi vers 15h30).
 
