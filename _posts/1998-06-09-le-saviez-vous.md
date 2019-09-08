@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le Saviez-Vous?"
+title: "Le Saviez-Vous ?"
 tags: [ LostEden2, Anime ]
 featured_image_thumbnail: assets/images/posts/1998/le-saviez-vous.jpg
 author: Erwan

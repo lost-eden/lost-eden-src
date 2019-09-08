@@ -14,7 +14,7 @@ Nous sommes le 3 mars 1998, il est 21h40, je m’installe confortablement dans m
 
 Le premier reportage est intéressant et bien construit. Il fait une petite présentation du manga. On y retrouve immanquablement Dominique VERET (à chaque fois qu’il y a un reportage sur le manga on le retrouve, serait-il le Daniel COHN-BENDIT de l’animation japonaise ?) et, oh surprise, Yvan WEST-LAURENCE, le rédacteur en chef d’*Animeland*. Il semblerait d’ailleurs que leurs interventions aient été raccourcies par rapport à la première diffusion sur *TSR* (en novembre dernier), ce ne fut, semblerait-il, pas le seul changement par rapport à la première diffusion (que faut-il en conclure ?).
 
-Le second reportage commence avec le portrait d’un marionnettiste japonais (le rapport avec le manga?) et se poursuit avec une visite guidée de 2 magasins *Mandarake* et *Kiddy Land*, intéressant sans plus.
+Le second reportage commence avec le portrait d’un marionnettiste japonais (le rapport avec le manga ?) et se poursuit avec une visite guidée de 2 magasins *Mandarake* et *Kiddy Land*, intéressant sans plus.
 
 Le 3ème reportage est assez commun dans son début et se rattrape en traitant quelques minutes du studio *Ghibli* (avec de trop courtes interviews de Hayao MIYAZAKI et de Isao TAKAHATA). Puis on eut droit à une réflexion sur la violence dans le manga et les DAN au Japon (avec quand même une image de *Spawn* en arrière plan (je n’invente rien !)) qui explique bien la difficulté des européens à admettre que le dessin animé n’est pas fait exclusivement pour les enfants (réflexe Waltdisnéen ?).
 

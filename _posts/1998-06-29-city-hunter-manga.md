@@ -6,7 +6,7 @@ featured_image_thumbnail: assets/images/posts/1998/city-hunter-manga_thumbnail.j
 author: Kaori
 ---
 
-**Tsukasa HOJO est surtout connu dans nos contrées pour les récits de *Cat’s Eye* et *City Hunter*. Avant de débuter le célèbre manga qu’est *City Hunter* (qui a dit "je ne connais pas"?) en décembre 1985, Hojo avait auparavant publié des histoires courtes où Ryo était présent.**
+**Tsukasa HOJO est surtout connu dans nos contrées pour les récits de *Cat’s Eye* et *City Hunter*. Avant de débuter le célèbre manga qu’est *City Hunter* (qui a dit "je ne connais pas" ?) en décembre 1985, Hojo avait auparavant publié des histoires courtes où Ryo était présent.**
 
 ![City Hunter, le manga](assets/images/posts/1998/city-hunter-manga.jpg)
 
@@ -64,7 +64,7 @@ Ryo a aussi un côté protecteur envers les enfants, qui voient en lui une perso
 
 #### Le personnage de Kaori
 
-Kaori est, à première vue, un garçon manqué: cheveux courts, pantalon... Elle ne porte que rarement des bijoux et des robes. Une raison simple à cet habillement quelques fois masculin est que Kaori ne peut se permettre d’être habillée sexy du fait de sa profession. Vous l’imaginez courir pour échapper aux truands en jupe courte et escarpins? Donc, question pratique, elle reste sobre et même au risque de se faire prendre pour un homme (ce qui arrive parfois...). Mais, elle peut-être féminine lorsqu’elle est en robe (telle celle que lui a offert sa sœur, Sayuri TACHIKI, dans le manga n° 20). Kaori a une personnalité paradoxale, car elle est au fond très romantique et très féminine. Sentimentale, elle envie parfois les autres femmes d’avoir une vie normale. Mais pour rien au monde, elle ne voudrait changer de travail.
+Kaori est, à première vue, un garçon manqué: cheveux courts, pantalon... Elle ne porte que rarement des bijoux et des robes. Une raison simple à cet habillement quelques fois masculin est que Kaori ne peut se permettre d’être habillée sexy du fait de sa profession. Vous l’imaginez courir pour échapper aux truands en jupe courte et escarpins ? Donc, question pratique, elle reste sobre et même au risque de se faire prendre pour un homme (ce qui arrive parfois...). Mais, elle peut-être féminine lorsqu’elle est en robe (telle celle que lui a offert sa sœur, Sayuri TACHIKI, dans le manga n° 20). Kaori a une personnalité paradoxale, car elle est au fond très romantique et très féminine. Sentimentale, elle envie parfois les autres femmes d’avoir une vie normale. Mais pour rien au monde, elle ne voudrait changer de travail.
 
 Ryo la considère comme un homme et la cherche bien souvent sur le sujet, ce qui lui apporte des coups de 100 tonnes sur la tête. Pourtant, lorsque Kaori a des vêtements éminins ou est en maillot de bain, il ne peut s’empêcher de s’avouer que Kaori est une jolie jeune femme. Ce qui lui fait défaut de son côté féminin, c’est qu’elle a des réactions plutôt violentes  parfois  (Ryo  en  est  le  témoin  principal d’ailleurs...).
 

@@ -28,7 +28,7 @@ Première partie du gros dossier consacré au manga *City Hunter* de Tsukasa HOJ
 - Un peu de technique
 - Les différences avec le manga
 - La version française à la Momo
-- Faut-il en vouloir à Maurice Sarfati?
+- Faut-il en vouloir à Maurice Sarfati ?
 - City Hunter, fiche technique
 - Les génériques
 - Palmares

@@ -25,13 +25,13 @@ Seconde partie du gros dossier consacré au manga *City Hunter* de Tsukasa HOJO.
 
 - *Bay City Wars*, le Piège de Cristal japonais
 - Plot of 1.000.000 $ 
-- Des OAV complémentaires?
+- Des OAV complémentaires ?
 - City Hunter Mini Special
 
 #### Les téléfilms
 
 - The Secret Service
-- Un épisode un peu plus long?
+- Un épisode un peu plus long ?
 - 0% originalité, 100% sécurité
 
 #### La traduction du film
