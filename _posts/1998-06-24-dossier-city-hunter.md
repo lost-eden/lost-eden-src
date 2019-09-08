@@ -40,7 +40,7 @@ Première partie du gros dossier consacré au manga *City Hunter* de Tsukasa HOJ
 - Introduction
 - Evolution du style de Tsukaja HOJO
 - Realité illusoire...
-- ...Mais psychologie présente
+- ...mais psychologie présente
 - Le personnage de Ryo
 - Le perssonage de Kaori
 - La place des femmes dans le manga
