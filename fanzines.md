@@ -48,3 +48,13 @@ title: Historique des Fanzines
 **Au sommaire de ce numéro:**
 
 - *Animation Japonaise*: Courrier, Point de Vue, Coup de Gueule, Adresses, Lexique, 4C, News, Dossier City Hunter 2nd partie, Karaoke, Horoscope.
+
+### Lost Eden 4
+
+[![Lost Eden 4](/assets/images/pages/losteden4.jpg)]({% link tag/losteden4/index.html %})
+
+**Slogan**: Le seul fanzine sang pour sang fête
+
+**Date de parution**: hivers 1998
+
+**Equipe**: Erwan, Motenaï & Kaori
