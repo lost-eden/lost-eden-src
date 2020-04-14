@@ -10,4 +10,4 @@ Ce second album solo de Lisa GERRARD (*Dead Can Dance*) fait en collaboration av
 
 *Lisa Gerrard & Pieter Bourke - Duality - [58′] - label 4D*
 
-![Lingua](assets/images/posts/1998/lisa-gerrard-pieter-bourke-duality.jpg) 
+![Lisa Gerrard & Pieter Bourke, Duality](assets/images/posts/1998/lisa-gerrard-pieter-bourke-duality.jpg) 

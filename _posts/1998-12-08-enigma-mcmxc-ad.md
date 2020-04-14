@@ -10,4 +10,4 @@ Oubliez les récentes compositions  de ce groupe car leur premier album n’a qu
 
 *Enigma - MCMXC AD - [61′] - label Virgin*
 
-![Lingua](assets/images/posts/1998/enigma-mcmxc-ad.jpg) 
+![Enigma, MCMXC AD](assets/images/posts/1998/enigma-mcmxc-ad.jpg) 

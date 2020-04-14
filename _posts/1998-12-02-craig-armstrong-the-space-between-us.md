@@ -11,4 +11,4 @@ A consommer sans modération.
 
 *Craig Armstrong - The Space Between Us - [58′] - label Melankolic*
 
-![Lingua](assets/images/posts/1998/craig-armstrong-the-space-between-us.jpg) 
+![Craig Armstrong, The Space Between Us](assets/images/posts/1998/craig-armstrong-the-space-between-us.jpg) 

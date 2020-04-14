@@ -10,4 +10,4 @@ Ce double album regroupe la majorité des compositions et des remixes faits avan
 
 *Laurent Garnier - Early Works - 2x[65′] - label F Communications*
 
-![Lingua](assets/images/posts/1998/laurent-garnier-early-works.jpg) 
+![Laurent Garnier, Early Works](assets/images/posts/1998/laurent-garnier-early-works.jpg) 

@@ -12,4 +12,4 @@ Petite remarque: Ne confondez pas cet album avec la BO du film où on ne trouve 
 
 *Angelo Badalamenti - Music From Twin Peaks - [50′] - label Warner Bros Records*
 
-![Lingua](assets/images/posts/1998/angelo-badalamenti-music-from-twin-peaks.jpg) 
+![Angelo Badalamenti, Music From Twin Peaks](assets/images/posts/1998/angelo-badalamenti-music-from-twin-peaks.jpg) 

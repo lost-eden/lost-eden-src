@@ -57,4 +57,4 @@ title: Historique des Fanzines
 
 **Date de parution**: hivers 1998
 
-**Equipe**: Erwan, Motenaï & Kaori
+**Equipe**: Erwan, Motenaï, Kaori, Le Ronin

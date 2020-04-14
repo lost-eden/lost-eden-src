@@ -10,4 +10,4 @@ author: Erwan
 
 *Drop the Box - Honeytrap - [45′] - label KRL*
 
-![Lingua](assets/images/posts/1998/drop-the-box-honeytrap.jpg) 
+![Drop The Box, Honeytrap](assets/images/posts/1998/drop-the-box-honeytrap.jpg) 

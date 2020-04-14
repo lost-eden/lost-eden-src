@@ -23,6 +23,11 @@ authors: {
     'name': 'Kaori',
     'image': 'kaori.jpg',
     'bio': "Rédactrice dans Lost Eden depuis le numéro 2."
+  },
+  'Ronin': {
+    'name': 'Le Ronin',
+    'image': 'leronin.jpg',
+    'bio': "Rédacteur dans Lost Eden depuis le numéro 4."
   }
 }
 

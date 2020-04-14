@@ -10,4 +10,4 @@ author: Erwan
 
 *AThis Mortal Coil - Blood - [75′] - label 4AD*
 
-![Lingua](assets/images/posts/1998/this-mortal-coil-blood.jpg) 
+![This Mortal Coil, Blood](assets/images/posts/1998/this-mortal-coil-blood.jpg) 

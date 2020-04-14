@@ -10,4 +10,4 @@ Et de 3! Voici pour notre plus grand plaisir une nouvelle compilation / mix de m
 
 *Compilation Musiques de Nuit Vol.3 - [74′] - label Labels / Virgin France*
 
-![Musiques de nuit Vol. III](assets/images/posts/1998/musique-de-nuit-3.jpg) 
+![Musiques de nuit Vol.3](assets/images/posts/1998/musique-de-nuit-3.jpg) 

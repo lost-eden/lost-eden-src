@@ -10,4 +10,4 @@ author: Erwan
 
 *LTJ Bukem presents Earth Vol.2 - [74′] - label Good Looking Records*
 
-![Lingua](assets/images/posts/1998/ltj-bukem-earth-vol-2.jpg) 
+![LTJ Bukem presents Earth Vol.2](assets/images/posts/1998/ltj-bukem-earth-vol-2.jpg) 
