@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Akira Kurosawa, c’était le 8 ème samouraï...'
+title: 'Akira Kurosawa, c’était le 8ème samouraï...'
 tags: [ LostEden4, Chronique ]
 featured_image_thumbnail: assets/images/posts/1998/akira-kurosawa.jpg
 author: Ronin

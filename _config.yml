@@ -28,6 +28,11 @@ authors: {
     'name': 'Le Ronin',
     'image': 'leronin.jpg',
     'bio': "Rédacteur dans Lost Eden depuis le numéro 4."
+  },
+    'Natalie': {
+    'name': 'Natalie',
+    'image': 'natalie.jpg',
+    'bio': "Rédactrice dans Lost Eden depuis le numéro 4."
   }
 }
 
