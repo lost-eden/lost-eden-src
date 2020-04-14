@@ -8,6 +8,8 @@ author: Motenai
 
 **L'équipe chargée de réaliser les deux OAV sorties en 1990 a dû se poser cette question avant de commencer: dans *City Hunter*, est-ce que c'est l'action qui plaît le plus ou bien au contraire l'humour "cantonnesque" qui lie Ryo et Kaori dans la vie (et qui constitue leur passe temps favori) ? Les avis ont dû être si partagés que les producteurs ont décidés de faire un épisode où l'action défile en non-stop (100% action comme dans les films américains) et l'autre où les marteaux pleuvent et les soutiens-gorge volent.**
 
+![City Hunter, les OAV](assets/images/posts/1998/city-hunter-les-oav.jpg)
+
 #### Bay City Wars, le Piège de Cristal japonais
 
 Beaucoup d'éléments de ce film ont été repris dans l'OAV, sans pour autant donner l'impression d'un repompage pur et dur, *City Hunter* et *Die Hard* (nom du film en anglais) sont assez proches à bien des niveaux pour que l'on reste quand même dans un esprit suffisamment *City Hunter*, mais jugez plutôt par vous-mêmes avec le résumé que voici.
