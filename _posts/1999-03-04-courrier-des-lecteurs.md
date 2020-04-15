@@ -8,7 +8,7 @@ author: Kaori
 
 **Voici une nouvelle rubrique dans *Lost Eden*...En effet, comme nous recevons un petit paquet de lettres et que des lecteurs demandent à être publiés, alors voilà les réactions de quelques personnes qui disent ce qu'ils pensent du fanzine. Cette rubrique est à vous, car sans vous qui nous lisez, *Lost Eden* ne serait rien. Merci à tous ceux qui nous ont écrit.**
 
-![Le Nautilus](assets/images/posts/1999/courrier-des-lecteurs.png)
+![Le Courrier des lecteurs](assets/images/posts/1999/courrier-des-lecteurs.png)
 
 #### Courrier de Laetitia
 
