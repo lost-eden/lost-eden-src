@@ -92,10 +92,6 @@ En conclusion, on peut dire que le cinéma de KUROSAWA est le plus occidental de
     <td>1951</td>
   </tr>
   <tr>
-    <td>L’Idiot</td>
-    <td>1951</td>
-  </tr>
-  <tr>
     <td>Vivre</td>
     <td>1952</td>
   </tr>

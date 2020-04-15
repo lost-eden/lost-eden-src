@@ -13,12 +13,6 @@ title: Historique des Fanzines
 
 **Equipe**: Erwan
 
-**Au sommaire de ce numéro:**
-
-- *Animation Japonaise*: Lexique, Adresses, News, Point de Vue / Coup de Gueule, Crying Freeman, Dossier Kimagure Orange Road
-
-- *Musique*: News, Chronique, Adresses, Dossier Heavenly Voices: Groupes Heavenly Voices, Chandeen, Love Spirals Downwards, Jack or Jive
-
 ### Lost Eden 2
 
 [![Lost Eden 2](/assets/images/pages/losteden2.jpg)]({% link tag/losteden2/index.html %})
@@ -28,12 +22,6 @@ title: Historique des Fanzines
 **Date de parution**: juin 1998
 
 **Equipe**: Erwan, Motenaï & Kaori
-
-**Au sommaire de ce numéro:**
-
-- *Animation Japonaise*: Le coin des croqueurs, Courrier, Adresses, News, Point de Vue / Coup de Gueule, Le Saviez-vous ?, Festival Travelling Tokyo, Soirée théma sur Arte, Dossier City Hunter (1ère partie)
-
-- *Musique*: News, Chronique, Adresses, Harold Budd, In the Nursery, Interview de Love Spirals Downwards
 
 ### Lost Eden 3
 
@@ -45,16 +33,22 @@ title: Historique des Fanzines
 
 **Equipe**: Erwan, Motenaï & Kaori
 
-**Au sommaire de ce numéro:**
-
-- *Animation Japonaise*: Courrier, Point de Vue, Coup de Gueule, Adresses, Lexique, 4C, News, Dossier City Hunter 2nd partie, Karaoke, Horoscope.
-
 ### Lost Eden 4
 
 [![Lost Eden 4](/assets/images/pages/losteden4.jpg)]({% link tag/losteden4/index.html %})
 
 **Slogan**: Le seul fanzine sang pour sang fête
 
-**Date de parution**: hivers 1998
+**Date de parution**: hiver 1998
 
 **Equipe**: Erwan, Motenaï, Kaori, Le Ronin, Natalie
+
+### Lost Eden 5
+
+[![Lost Eden 5](/assets/images/pages/losteden5.jpg)]({% link tag/losteden5/index.html %})
+
+**Slogan**: Le seul fanzine en fleur
+
+**Date de parution**: printemps 1999
+
+**Equipe**: Erwan, Motenaï, Kaori, Le Ronin, Emilie
