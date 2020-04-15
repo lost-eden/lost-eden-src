@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Miso-shiru, la soupe au miso"
-tags: [ LostEden5, Anime ]
+tags: [ LostEden5, Chronique ]
 featured_image_thumbnail: assets/images/posts/1999/soupe-miso.jpg
 author: Kaori
 ---
