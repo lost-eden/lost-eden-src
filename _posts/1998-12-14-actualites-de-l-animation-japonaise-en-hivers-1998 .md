@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualités de l'animation japonaise de l'hiver 1998"
+title: "Actualités de l'animation japonaise (hiver 1998)"
 tags: [ LostEden4, Anime ]
 featured_image_thumbnail: assets/images/posts/1998/souvenirs-actualites-de-l-animation-japonaise-en-1998.jpg
 author: Erwan

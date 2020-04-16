@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualités de la musique éthérée de l'été 1998"
+title: "Actualités de la musique éthérée (été 1998)"
 tags: [ LostEden2, Musique ]
 featured_image_thumbnail: assets/images/posts/1998/actualites-de-la-muqiue-etheree-en-1998.jpg
 author: Erwan
