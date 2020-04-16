@@ -2,7 +2,7 @@
 layout: post
 title: "Actualités de la musique éthérée (printemps 1999)"
 tags: [ LostEden5, Musique ]
-featured_image_thumbnail: assets/images/posts/1997/actualites-de-la-musique-etheree-en-1997.jpg
+featured_image_thumbnail: assets/images/posts/1997/actualites-de-la-muqiue-etheree-en-1997.jpg
 author: Erwan
 ---
 

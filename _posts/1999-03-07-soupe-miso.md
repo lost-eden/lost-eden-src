@@ -8,7 +8,7 @@ author: Kaori
 
 **Avant de vous imaginer mitonner de bons petits plats japonais à tous les repas, il semble utile de vous avertir que la cuisine japonaise est sans doute la plus difficile à réaliser en France, non pas par leur complexité, mais surtout par la difficulté à se procurer ces ingrédients venus d'ailleurs qui ne figurent jamais à notre menu. Pour commencer, on va pas trop corser les choses, donc on va faire une soupe. C'est bien une soupe, ça réchauffe, c'est convivial, et en plus là, c'est asiatique... Huuummm!! humez-moi ce fumet...**
 
-![Après](assets/images/posts/1999/soupe-miso.jpg)
+![Soupe miso](assets/images/posts/1999/soupe-miso.jpg)
 
 #### Ingrédients
 

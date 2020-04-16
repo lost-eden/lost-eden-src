@@ -52,3 +52,13 @@ title: Historique des Fanzines
 **Date de parution**: printemps 1999
 
 **Equipe**: Erwan, Motenaï, Kaori, Le Ronin, Emilie
+
+### Lost Eden 6
+
+[![Lost Eden 6](/assets/images/pages/losteden6.jpg)]({% link tag/losteden6/index.html %})
+
+**Slogan**: Le seul fanzine qui vous tient chaud au coeur
+
+**Date de parution**: été 1999
+
+**Equipe**: Erwan, Motenaï, Kaori, Le Ronin, Emilie, Nicolas

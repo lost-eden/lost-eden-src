@@ -8,8 +8,6 @@ author: Erwan
 
 **Voici un article de Lost Eden datant de 1997 qui retranscrit bien l’ambiance d’une époque et permet de voir tout le chemin qui a été parcouru pour une reconnaissance de l’animation japonaise en France.**
 
-![Porco Rosso](assets/images/posts/1997/porco_rosso.jpg#left) 
-
 Après cette rentrée télévisuelle, un constat s’impose: l’avenir de l’animation japonaise ne se trouve plus dans le petit écran ou en tout cas sur les chaînes "généralistes". En effet, après la disparition du *Club Dorothée*, aucune chaîne ne se risquera à diffuser des DAN, toujours jugés trop violents et mal animés (les années passent mais les préjugés restent, c’est ça la France). Les chaînes préféreront (re)diffuser pour la n-ème fois des DA français qui ont déjà fait leur temps (*Moi renard*, la saga des *Il était une fois …* , etc. ) ou des DA américains généralement à l’intérêt souvent limité (la majorité des DA de M6 par exemple). 
 
 On ne peut donc rien espérer (sauf miracle cathodique) des chaîne hertziennes en matière d’animation japonaise. La seule consolation à ceci est que nous ne verrons plus (à la TV en tout cas) des adaptations de superbes DAN à la AB Production (mauvaise traduction, mauvais doublage, DA censurés et par conséquent incompréhensibles, génériques "Arianesques" , etc). 
