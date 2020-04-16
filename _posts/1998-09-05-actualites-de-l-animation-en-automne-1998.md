@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Actualités de l'animation japonaise de l'automne 1998"
+title: "Actualités de l'animation japonaise (automne 1998)"
 tags: [ LostEden3, Anime ]
 featured_image_thumbnail: assets/images/posts/1998/souvenirs-actualites-de-l-animation-japonaise-en-1998.jpg
 author: Erwan
 ---
 
-**Un petit tour d'horizon de l'actualités de l'animation japonaise en cet automne 1998.**
+**Un petit tour d'horizon de l'actualités de l'animation à la télévision en cet automne 1998.**
 
 #### Télévision
 
