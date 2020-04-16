@@ -2,7 +2,7 @@
 layout: post
 title: "J’ai lu... ou comment bien commercialiser les Mangas !"
 tags: [ LostEden6, Chronique ]
-featured_image_thumbnail: assets/images/posts/1999/article-jai-lu.jpg
+featured_image_thumbnail: assets/images/posts/1999/article-j-ai-lu.jpg
 author: Kaori
 ---
 
@@ -10,7 +10,7 @@ Nos chers amis des éditions *J’ai lu* ont eu une très bonne idée de publier
 
 En effet, l’adaptation japonaise du manga *City Hunter* comprend 35 volumes, le35ème étant le dernier volume du manga. Or, en français, nous aurons droit à 36 volumes. Peut-on vraiment parler de chance ? !... Car, amis lecteurs (et amies lectrices, **NDErwan**), ce n’est pas pour autant que nous aurons plus de lecture que nos amis japonais fans de Japanimation. En français, le volume 34, qui s’intitule *Retour de l’enfer* a tout simplement été coupé d’environ 50 pages par rapport à l’édition originale. 
 
-![Manga](assets/images/posts/1999/article-jai-lu.jpg#left)
+![Manga](assets/images/posts/1999/article-j-ai-lu.jpg#left)
 
 Ainsi, nous aurons le vol. 35: *Un faux City Hunter* et le vol. 36: *Forever City Hunter*, la jaquette de ce numéro étant tiré d’une image du art-book de Tsukaja HOJO. On peut lire au lieu du mot de l’éditeur au début du vol. 35 une petite note des éditions *J’ai lu* disant (et là, je réécris mots pour mots ce qu’ils ont mis): "Mais, rassurez-vous, si, pour des raisons techniques indépendantes de note volonté...". On se demande! 
 
