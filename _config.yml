@@ -29,10 +29,15 @@ authors: {
     'image': 'leronin.jpg',
     'bio': "Rédacteur dans Lost Eden depuis le numéro 4."
   },
-    'Natalie': {
+  'Natalie': {
     'name': 'Natalie',
     'image': 'natalie.jpg',
     'bio': "Rédactrice dans Lost Eden depuis le numéro 4."
+  },
+  'Emilie': {
+    'name': 'Emilie',
+    'image': 'emilie.jpg',
+    'bio': "Rédactrice dans Lost Eden depuis le numéro 5."
   }
 }
 

@@ -10,7 +10,6 @@ author: Ronin
 
 ![Le Nautilus](assets/images/posts/1999/nadia.jpg)
 
-
 #### Historique
 
 Les Mécanics de *Nadia* se situent en 1900 à l'Exposition universelle de Paris. Dans les premiers épisodes apparaît l'engin le plus important qui est le Nautilus de 20 000 lieues sous les mers.
