@@ -111,7 +111,7 @@ Voisine de palier de Ryo et Kaori, Maiko est en danger, car elle porte un penden
 * journaliste et photographe
 * manga n°16-17
 
-Yôkô veut découvrir le vrai visage de *City Hunter* et faire un reportage sur lui, afin que tout le monde puisse connaître qui se cache derrière ce nom.
+Yôkô veut découvrir le vrai visage de **City Hunter** et faire un reportage sur lui, afin que tout le monde puisse connaître qui se cache derrière ce nom.
 
 #### Keiko Kashiwagi
 * actrice
@@ -151,7 +151,7 @@ Engagé par le grand-père de Kimido, Ryo doit la protéger de la horde de prét
 * détective
 * manga n°22
 
-Aiko recherche un revolver et décide de voler celui de City Hunter . Ryo devra le protéger, car elle est en danger Aiko ne supporte pas  l’alcool et décuple ses forces lorsqu’elle a un peu bu...
+Aiko recherche un revolver et décide de voler celui de **City Hunter**. Ryo devra le protéger, car elle est en danger Aiko ne supporte pas  l’alcool et décuple ses forces lorsqu’elle a un peu bu...
 
 #### Shôkô Amano
 * pilote d’avions 

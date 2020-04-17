@@ -10,7 +10,7 @@ author: Erwan
 
 ![Love Spirals Downwards](assets/images/posts/1997/love-spirals-downards.jpg#left)
 
-*Love Spirals Downwards* est un groupe américain basé à Los-Angeles. Le groupe est formé de Suzanne PERRY au chant et de Ryan LUM à la musique (guitare et synthétiseur). Une fois leur première démo finie, ils l'envoyèrent à plusieurs labels dont *Projekt* qui regroupait déjà des perles musicales comme *Lycia* ou *Black Tape For A Blue Girl*. Ils furent ensuite contactés par *Projekt* qui les signa sur leur label. 
+**Love Spirals Downwards** est un groupe américain basé à Los-Angeles. Le groupe est formé de Suzanne PERRY au chant et de Ryan LUM à la musique (guitare et synthétiseur). Une fois leur première démo finie, ils l'envoyèrent à plusieurs labels dont *Projekt* qui regroupait déjà des perles musicales comme *Lycia* ou *Black Tape For A Blue Girl*. Ils furent ensuite contactés par *Projekt* qui les signa sur leur label. 
 
 C'est ainsi que sorti leur premier album, *Idylls*, en 1992 (album où figurent d'ailleurs les chansons de leur démo). Avec *Idylls*, *LSD* charma de nombreux amateurs d'*Heavenly Voices* grâce à des chansons très proche de *Cocteau Twins* (dont Suzanne ne cache pas l'influence qu'ils ont sur leurs musiques) et des morceaux de guitares qui font beaucoup penser à *The Cure*. 
 
@@ -24,7 +24,7 @@ En 1998, sorti *Flux*, un album teinté de  rythmiques drum and bass montrant l
 
 #### Commentaires
 
-En écoutant *Love Spirals Downwards*, il est difficile de ne pas faire la comparaison avec *Cocteau Twins*. En effet, ces 2 groupes nous invitent dans un univers sonore rempli de sensibilité, berçant nos oreilles de tendres harmonies célestes. Mais on s'aperçoit vite que *LSD* réussit l'exploit de faire une musique encore plus éthérée que celle des *Cocteau Twins*. Il n'y a qu'à écouter des chansons comme '*Will You Fade*' ou encore '*Above the Lone*' pour en être convaincu. 
+En écoutant **Love Spirals Downwards**, il est difficile de ne pas faire la comparaison avec *Cocteau Twins*. En effet, ces 2 groupes nous invitent dans un univers sonore rempli de sensibilité, berçant nos oreilles de tendres harmonies célestes. Mais on s'aperçoit vite que *LSD* réussit l'exploit de faire une musique encore plus éthérée que celle des *Cocteau Twins*. Il n'y a qu'à écouter des chansons comme '*Will You Fade*' ou encore '*Above the Lone*' pour en être convaincu. 
 
 Leurs albums alternent chansons mélancoliques et musiques atmosphériques. A l'écoute de leurs chansons, on se surprend à rêver et à se laisser guider par la douce voix de Suzanne qui vous transporte dans un océan de plénitude et de volupté. Rares sont les groupes qui arrivent à vous toucher aussi profondément que *LSD*, alors si jamais vous tombez sur un de leurs albums, n'hésitez surtout pas à l'acheter: vous ne serez pas déçu.
 

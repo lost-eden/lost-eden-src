@@ -14,15 +14,15 @@ author: Kaori
 
 En 1983, il écrit *City Hunter XYZ* (une femme demande à Ryo de la protéger contre des gens de la pègre) et *City Hunter Double Edge* (Ryo est ici engagé par une comédienne pour se faire protéger d’un psychopathe qui tue ses victimes de la même manière que le héros de la pièce de théâtre Double Edge). Ces deux nouvelles serviront de modèle pour le manga qui débutera en 1985. Notons tout de même qu’ici, Ryo travaille déjà avec Kaori et qu’ils connaissent tous deux les sœurs KISUGI, du fameux trio *Cat’s Eye*.
 
-Tsukasa HOJO débute le manga *City Hunter* en décembre 1985, publié dans l’hebdomadaire *Weekly Shonen Jump*. Ici, ce ne sont plus de jolies voleuses qui sont les héroïnes, mais un garde du corps ou de tueur à gages selon la demande du client (le plus souvent, c’est une cliente d’ailleurs...). Celui-ci travaille avec Kaori MAKIMURA, qui est devenue sa partenaire à la mort de son frère, Hideyuki MAKIMURA. Le succès du manga n’est plus à prouver et les fans demandent même des liens plus étroits entre les deux personnages principaux (ne rêvez pas, il n’y aura pas de mariage... sinon, la série serait terminée).
+Tsukasa HOJO débute le manga **City Hunter** en décembre 1985, publié dans l’hebdomadaire *Weekly Shonen Jump*. Ici, ce ne sont plus de jolies voleuses qui sont les héroïnes, mais un garde du corps ou de tueur à gages selon la demande du client (le plus souvent, c’est une cliente d’ailleurs...). Celui-ci travaille avec Kaori MAKIMURA, qui est devenue sa partenaire à la mort de son frère, Hideyuki MAKIMURA. Le succès du manga n’est plus à prouver et les fans demandent même des liens plus étroits entre les deux personnages principaux (ne rêvez pas, il n’y aura pas de mariage... sinon, la série serait terminée).
 
-En décembre 1991, Tsukasa HOJO termine *City Hunter* dans le *Weekly Shonen Jump* et en avril 1992 pour les volumes reliés de la collection *Jump Comics*. Le manga *City Hunter* comprend 35 volumes dans l’édition japonaise. L’adaptation française dont s’occupe les éditions *J’ai lu* est plutôt réussie: les noms d’origine sont gardés, le sens de lecture reste au standard japonais.
+En décembre 1991, Tsukasa HOJO termine **City Hunter** dans le *Weekly Shonen Jump* et en avril 1992 pour les volumes reliés de la collection *Jump Comics*. Le manga **City Hunter** comprend 35 volumes dans l’édition japonaise. L’adaptation française dont s’occupe les éditions *J’ai lu* est plutôt réussie: les noms d’origine sont gardés, le sens de lecture reste au standard japonais.
 
 #### Evolution du style de Tsukasa Hojo
 
- Dans *City Hunter*, HOJO a su mélanger action, humour et émotion. C’est cette diversité qui fait de ce manga un des plus appréciés. 
+ Dans **City Hunter**, HOJO a su mélanger action, humour et émotion. C’est cette diversité qui fait de ce manga un des plus appréciés. 
 
- Tsukasa HOJO dessine d’un trait réaliste, que ce soit au niveau des personnages que des bâtiments (les détails de la gare de *Shinjuku* montrent d’ailleurs la précision du coup de crayon). Au niveau du style, les divers volumes de *City Hunter* pourraient être divisés en trois parties:
+ Tsukasa HOJO dessine d’un trait réaliste, que ce soit au niveau des personnages que des bâtiments (les détails de la gare de *Shinjuku* montrent d’ailleurs la précision du coup de crayon). Au niveau du style, les divers volumes de **City Hunter** pourraient être divisés en trois parties:
 
 - les volumes 1 à 14 (décembre 1985 - juin 1988): les dessins restent encore dans la lignée des derniers tomes de *Cat’s Eye*. Ce sont surtout des premières ébauches qui montrent une évolution du style.
 
@@ -30,27 +30,27 @@ En décembre 1991, Tsukasa HOJO termine *City Hunter* dans le *Weekly Shonen Jum
 
 - les volumes 32 à 35 (juin 91 - décembre 91): la perfection n’existe peut-être pas, mais HOJO en est très proche dans ces volumes. La maîtrise des précisions du décor et du contraste est réelle. Un nouveau personnage apparaît ici, Mick Angel, qui permet d’accélérer le dénouement du manga. On peut d’ailleurs regretter la non-adaptation au petit écran de ces 4 derniers volumes, la série s’arrêtant avant, ce qui est un peu dommage.
 
-Dans *Komori no shitade* (Sous un rayon de soleil), le style de Hojo reste dans la même lignée. Notons que l’action est plus simple dans ce manga. Dans *Rash*, le style graphique de Hojo est moins travaillé, la qualité des illustrations ne vaut plus ici les derniers volumes de *City Hunter*.
+Dans *Komori no shitade* (Sous un rayon de soleil), le style de Hojo reste dans la même lignée. Notons que l’action est plus simple dans ce manga. Dans *Rash*, le style graphique de Hojo est moins travaillé, la qualité des illustrations ne vaut plus ici les derniers volumes de **City Hunter**.
 
 Enfin, dans *Family Compo*, le style est d’une bonne qualité, les planches en couleurs des premières pages restent un réel plaisir pour les yeux. Nous pouvons donc remarquer que le style graphique ne se retrouvera pas aussi forte et présente dans ses autres œuvres.
 
-Les décors sont présents dans *City Hunter* et dessinés d’un trait réaliste. Au niveau graphique, les perspectives et les diverses prises de vue de Tokyo sont d’une excellente qualité. Des buildings de *Shinjuku* en passant par la gare aux vieux temples bouddhistes, tout est représenté. Avec une telle précision, certains dessins semblent ressembler à une photo en noir et blanc.
+Les décors sont présents dans **City Hunter** et dessinés d’un trait réaliste. Au niveau graphique, les perspectives et les diverses prises de vue de Tokyo sont d’une excellente qualité. Des buildings de *Shinjuku* en passant par la gare aux vieux temples bouddhistes, tout est représenté. Avec une telle précision, certains dessins semblent ressembler à une photo en noir et blanc.
 
 #### Réalité illusoire...
 
 Ryo et Kaori habitent un immeuble à *Shinjuku*, quartier des affaires commerciales le jour et quartier "chaud" la nuit où les cabarets (endroits souvent fréquentés par  Ryo...), les bars et les truands semblent se regrouper. Ryo fréquente cet endroit, car il a beaucoup de connaissances dans ce milieu, où les yakuzas sont de la partie.
   
-La réalité que décrit HOJO est parfois un peu illusoire. Le port d’armes est interdit au Japon et pourtant, tous les personnages de *City Hunter* sont armés. Ryo possède n arsenal tout entier au sous-sol de l’immeuble, or cela est illégal, de même que la salle de tir installée sous le café *Cat’s Eye*, tenu pas Miki et Umibozu.
+La réalité que décrit HOJO est parfois un peu illusoire. Le port d’armes est interdit au Japon et pourtant, tous les personnages de **City Hunter** sont armés. Ryo possède n arsenal tout entier au sous-sol de l’immeuble, or cela est illégal, de même que la salle de tir installée sous le café *Cat’s Eye*, tenu pas Miki et Umibozu.
 
 On ne s’étonne pas non plus des dettes de Kaori et Ryo lorsqu’on voit leur immeuble et qu’on compare avec le prix du mètre carré à Tokyo, qui est plutôt élevé...
 
 #### ...mais psychologie présente
 
-*City Hunter* est un personnage mythique, rempli de symboles. Il représente en fait une justice, là où les pouvoirs publics et la police ne peuvent plus rien faire. Ryo incarne ainsi le dernier recours face aux crimes. Certes, tous ses procédés ne sont peut-être pas légaux, mais la justice à n’importe quel prix pourrait être sa devise. Tueur à gages ou garde du corps, sa fonction varie selon la demande du client (qui est bien souvent une jolie cliente...).
+**City Hunter** est un personnage mythique, rempli de symboles. Il représente en fait une justice, là où les pouvoirs publics et la police ne peuvent plus rien faire. Ryo incarne ainsi le dernier recours face aux crimes. Certes, tous ses procédés ne sont peut-être pas légaux, mais la justice à n’importe quel prix pourrait être sa devise. Tueur à gages ou garde du corps, sa fonction varie selon la demande du client (qui est bien souvent une jolie cliente...).
 
 Tous ceux du milieu le connaissent, au moins par sa réputation (autant en tant que professionnel invincible que pour son attirance pour les femmes). Beaucoup de ses ennemis ont essayé de le tuer, mais en vain.
 
-Une des caractéristiques du manga est l’humour délirant que HOJO déploie: mimiques, "mokkoli" (le "coucou" de Ryo), cascades, coups de massues géantes et autres trouvailles (ex: électrochocs) de Kaori. Cet humour n’est pas seulement là pour le plaisir, il a aussi la fonction de dédramatiser les histoires, car le monde de *City Hunter* est rempli de morts, de drames et d’attentats (parfois même à la pudeur... **NDCorrecteur**). D’ailleurs, à chaque fois que la situation vire au mélodrame (la jeune fille qui a perdu son petit ami par exemple), Ryo se sert de son "coucou" pour faire oublier les mauvais souvenirs, ce qui lui amène des coups de massue de la part de Kaori.
+Une des caractéristiques du manga est l’humour délirant que HOJO déploie: mimiques, "mokkoli" (le "coucou" de Ryo), cascades, coups de massues géantes et autres trouvailles (ex: électrochocs) de Kaori. Cet humour n’est pas seulement là pour le plaisir, il a aussi la fonction de dédramatiser les histoires, car le monde de **City Hunter** est rempli de morts, de drames et d’attentats (parfois même à la pudeur... **NDCorrecteur**). D’ailleurs, à chaque fois que la situation vire au mélodrame (la jeune fille qui a perdu son petit ami par exemple), Ryo se sert de son "coucou" pour faire oublier les mauvais souvenirs, ce qui lui amène des coups de massue de la part de Kaori.
 
 #### Le personnage de Ryo
 
@@ -80,13 +80,13 @@ Notons enfin que Kaori est plus féminine dans le manga que dans la version TV, 
 
 #### La place des femmes dans le manga
 
-Même si Ryo reste le héros principal de *City Hunter*, il n’en demeure pas moins que les femmes ont un rôle important pour le bon déroulement de l’histoire. Eh oui, s’il n’y avait pas de jolies clientes, Mr Saeba n’aurait pas de travail !.. Kaori, Saeko, Miki, sans oublier toutes les clientes telles que Yoshimi Iwai, Maiko Tsugihara ou encore Yumiko Satoh... les personnages féminins sont omniprésents dans *City Hunter*. Toutes sont d’une beauté sublime, avec des corps de déesse et un charme à faire craquer beaucoup d’hommes. Celles-ci ne sont pas seulement présentes dans le manga pour montrer l’invincibilité de Ryo qui les protège et les défend, ce serait à mon avis plutôt l’inverse (eh oui, n’oubliez pas que Ryo est l’esclave des femmes !).
+Même si Ryo reste le héros principal de **City Hunter**, il n’en demeure pas moins que les femmes ont un rôle important pour le bon déroulement de l’histoire. Eh oui, s’il n’y avait pas de jolies clientes, Mr Saeba n’aurait pas de travail !.. Kaori, Saeko, Miki, sans oublier toutes les clientes telles que Yoshimi Iwai, Maiko Tsugihara ou encore Yumiko Satoh... les personnages féminins sont omniprésents dans **City Hunter**. Toutes sont d’une beauté sublime, avec des corps de déesse et un charme à faire craquer beaucoup d’hommes. Celles-ci ne sont pas seulement présentes dans le manga pour montrer l’invincibilité de Ryo qui les protège et les défend, ce serait à mon avis plutôt l’inverse (eh oui, n’oubliez pas que Ryo est l’esclave des femmes !).
 
-Si, à première vue, Ryo semble invincible, il reste malgré tout quelque peu fragile devant la gent féminine. Entre Saeko qui l’utilise pour ses talents de professionnel et Kaori qui le bombarde à coups de massue, Reika se sert elle *City Hunter*, le héros domine la situation vis-à-vis des truands, mais pas vis-à-vis des femmes. L’homme, dans *City Hunter*, se fait plus souvent dominer par la femme. Même Falcon se laisse attendrir par Miki et accepte de l’aider au café, au risque même de se faire ridiculiser en portant le tablier Piyo-Piyo...( il est pas mimi comme ça ?.. Quand on pense qu’il a été mercenaire...).
+Si, à première vue, Ryo semble invincible, il reste malgré tout quelque peu fragile devant la gent féminine. Entre Saeko qui l’utilise pour ses talents de professionnel et Kaori qui le bombarde à coups de massue, Reika se sert elle **City Hunter**, le héros domine la situation vis-à-vis des truands, mais pas vis-à-vis des femmes. L’homme, dans **City Hunter**, se fait plus souvent dominer par la femme. Même Falcon se laisse attendrir par Miki et accepte de l’aider au café, au risque même de se faire ridiculiser en portant le tablier Piyo-Piyo...( il est pas mimi comme ça ?.. Quand on pense qu’il a été mercenaire...).
 
-Ce genre de relations entre hommes et femmes dans *City Hunter* permet de rendre la situation comique, mais aussi de montrer qu’aucun être humain n’est invincible et que la femme n’est pas dépendante de l’homme, mais son égale.
+Ce genre de relations entre hommes et femmes dans **City Hunter** permet de rendre la situation comique, mais aussi de montrer qu’aucun être humain n’est invincible et que la femme n’est pas dépendante de l’homme, mais son égale.
 
-Notons enfin que dans *City Hunter*, aucune femme ne tient le rôle d’un réel truand. Si  une femme est du mauvais côté de la justice au début de l’histoire, alla se rendra compte avant la fin du scénario de son erreur et se remettra sur le droit chemin. De ce fait Hojo n’a pas voulu briser dans ce manga la relation qui existe entre hommes et femmes.
+Notons enfin que dans **City Hunter**, aucune femme ne tient le rôle d’un réel truand. Si  une femme est du mauvais côté de la justice au début de l’histoire, alla se rendra compte avant la fin du scénario de son erreur et se remettra sur le droit chemin. De ce fait Hojo n’a pas voulu briser dans ce manga la relation qui existe entre hommes et femmes.
 
 #### Comment se termine le manga ?
 
@@ -98,7 +98,7 @@ Dans le volume 35, Ryo sauve Kaori des griffes du général KOROITSU, celui qui 
 
 Cette fin permet une ouverture pour de futures animations, Ryo continuant de courir les jolies filles et Kaori le poursuivant de sa massue...
 
-Dans les derniers volumes, on apprend de plus en plus sur le passé de Ryo. Celui-ci, après avoir perdu ses parents dans un accident d’avion, de retrouve dans un camp de mercenaires où Falcon et le père de Sonia FIELD sont présents. A un moment donné, Ryo tue la section de guérilleros de Falcon et blesse ce dernier aux yeux. Nous apprenons aussi que le surnom de *City Hunter* a été créé par Mick ANGEL et Ryo lorsque ceux-ci étaient partenaires aux USA et avaient choisi pour nom de code *City Hunter*.
+Dans les derniers volumes, on apprend de plus en plus sur le passé de Ryo. Celui-ci, après avoir perdu ses parents dans un accident d’avion, de retrouve dans un camp de mercenaires où Falcon et le père de Sonia FIELD sont présents. A un moment donné, Ryo tue la section de guérilleros de Falcon et blesse ce dernier aux yeux. Nous apprenons aussi que le surnom de **City Hunter** a été créé par Mick ANGEL et Ryo lorsque ceux-ci étaient partenaires aux USA et avaient choisi pour nom de code **City Hunter**.
 
 Je ne vous en dis pas plus et je vous conseille de lire les derniers volumes qui sont sublimes tant au niveau du scénario que de la qualité du graphisme...
 

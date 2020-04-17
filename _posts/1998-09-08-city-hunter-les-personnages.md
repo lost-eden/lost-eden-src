@@ -79,7 +79,7 @@ Elle connaît une partie des origines de Ryo, car son père a été le premier p
 
 * **Première apparition**: manga n°27, ép. T.V. n° 135.
 
-Sonia est la fille de Kenny Field, ancien partenaire de Ryo aux U.S.A. Kenny fut obligé de se battre en duel contre Ryo pour sauver sa fille et fut tué par lui. Sonia lui en veut car elle ne connaît pas les réelles raison de ce duel. Ne lui ayant pas pardonné la mort de son père, elle se rend au Japon et force Umibozu à se battre contre Ryo, car sans le soins donnés par Kenny Field, Umibozu aurait définitivement perdu la vue. Sonia se sert de cette dette pour forcer Falcon et Ryo à se battre. Ce duel entre eux reste un moment fort de City Hunter. Il n’y a pas de vainqueur et Sonia, découvrant la vérité à propos du passé, retourne chez elle.
+Sonia est la fille de Kenny Field, ancien partenaire de Ryo aux U.S.A. Kenny fut obligé de se battre en duel contre Ryo pour sauver sa fille et fut tué par lui. Sonia lui en veut car elle ne connaît pas les réelles raison de ce duel. Ne lui ayant pas pardonné la mort de son père, elle se rend au Japon et force Umibozu à se battre contre Ryo, car sans le soins donnés par Kenny Field, Umibozu aurait définitivement perdu la vue. Sonia se sert de cette dette pour forcer Falcon et Ryo à se battre. Ce duel entre eux reste un moment fort de **City Hunter**. Il n’y a pas de vainqueur et Sonia, découvrant la vérité à propos du passé, retourne chez elle.
 
 #### Doc
 
@@ -99,7 +99,7 @@ Kazue est une scientifique qui enseignait à l’université de Tokyo. Son fianc
 
 * **Première apparition**: manga n°32.
 
-Mick était le meilleur ami de Ryo aux U.S.A. Ensemble, ils avaient créé le code *City Hunter*. Il est l’égale de Ryo sur tous les plans: combat, tir... Il est aussi un Dom Juan. Il est mercenaire et est venu au Japon pour tuer Ryo, commandité par l’œuvre de KAIBARA. Lorsqu’on lui demande de tuer un homme, il séduit d’abord la petite amie de celui-ci, pour ne pas qu’elle souffre pas de la mort de son fiancé. Il séduira ainsi Kaori, voulant tuer Ryo. Kaibara a en effet soumis Mick à *Angel Dust* pour éliminer Ryo. Ce dernier réussira à la maîtriser et Mick fut désintoxiqué.
+Mick était le meilleur ami de Ryo aux U.S.A. Ensemble, ils avaient créé le code **City Hunter**. Il est l’égale de Ryo sur tous les plans: combat, tir... Il est aussi un Dom Juan. Il est mercenaire et est venu au Japon pour tuer Ryo, commandité par l’œuvre de KAIBARA. Lorsqu’on lui demande de tuer un homme, il séduit d’abord la petite amie de celui-ci, pour ne pas qu’elle souffre pas de la mort de son fiancé. Il séduira ainsi Kaori, voulant tuer Ryo. Kaibara a en effet soumis Mick à *Angel Dust* pour éliminer Ryo. Ce dernier réussira à la maîtriser et Mick fut désintoxiqué.
 
 #### Robert Harrisson (Mick Angel dans la série T.V.)
 

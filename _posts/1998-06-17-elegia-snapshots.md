@@ -6,7 +6,7 @@ featured_image_thumbnail: assets/images/posts/1998/elegia-snapshots.jpg
 author: Erwan
 ---
 
-Nouveau maxi de *Elegia*, *Snapshots* est dans la lignée de ses précédentes productions. On retrouve des morceaux de qualité, très Deep qui enchanteront vos nuits d’été. On trouve également sur ce maxi un titre *Ambien*t, *Wayfomtwo*. Recommandé.
+Nouveau maxi de **Elegia**, **Snapshots** est dans la lignée de ses précédentes productions. On retrouve des morceaux de qualité, très Deep qui enchanteront vos nuits d’été. On trouve également sur ce maxi un titre *Ambien*t, *Wayfomtwo*. Recommandé.
 
 *Elegia - Snapshots - [37′] - label F communications (distribué par Pias France)*
 

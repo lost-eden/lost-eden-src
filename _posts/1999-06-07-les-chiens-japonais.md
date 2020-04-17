@@ -8,6 +8,8 @@ author: Emilie
 
 #### Inu ou ken ?
 
+![Chiens japonais](assets/images/posts/1999/chiens-japonais.jpg)
+
 Au japon, les chiens ont pour appellation **ken**. On dit ainsi *Akita ken*, *Shiba ken*, ... Dans les autres pays, le terme chien est utilisé par **inu**. On dit donc *Akita Inu*, *Shiba Inu*, ...
 
 Pourquoi cette différence? Au Japon, le terme chien a un kanji qui peut se prononcer de différentes manières, soit **inu**, soit **ken**.

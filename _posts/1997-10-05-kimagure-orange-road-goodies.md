@@ -6,7 +6,7 @@ featured_image_thumbnail: assets/images/posts/1997/kimagure-orange-road-goodies.
 author: Erwan
 --- 
 
-*Kimagure Orange Road* est certainement l’une des séries qui possède le plus de produits dérivés (posters, shitajikis (sous-main), maquette…). Aujourd’hui, les seuls goods que l’on puisse trouver sur la série (je ne parle pas du second film) sont les posters et les CD. 
+**Kimagure Orange Road** est certainement l’une des séries qui possède le plus de produits dérivés (posters, shitajikis (sous-main), maquette…). Aujourd’hui, les seuls goods que l’on puisse trouver sur la série (je ne parle pas du second film) sont les posters et les CD. 
 
 En France, on trouve 2 sortes de posters: les pirates (généralement au format 55 x 35) et les originaux (beaucoup plus grands et plus chers). Un petit conseil pour les différencier: outre le prix qui est différent, les originaux possèdent tous le logo de la série et un petit autocollant "Licensed by Toho". Presque tous les posters de la série sont des dessins pastels (au crayonné) d’Akemi TAKADA et ils sont tous magnifiques. 
 

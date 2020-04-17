@@ -10,7 +10,7 @@ dossier: true
 author: Motenai
 ---
 
-Voici notre gros dossier consacré au manga *City Hunter* de Tsukasa HOJO.
+Voici notre gros dossier consacré au manga **City Hunter** de Tsukasa HOJO.
 
 <!--more-->
 

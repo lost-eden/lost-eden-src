@@ -2,10 +2,14 @@
 layout: post
 title: "Le test de l'été: quel personnage de manga êtes-vous ?"
 tags: [ LostEden6, Chronique ]
+featured_image_thumbnail: assets/images/posts/1999/test-de-l-ete.jpg
+
 author: Kaori
 ---
 
 **Ce petit jeu permet de savoir à quel personnage de manga vous ressemblez le plus. Il marche aussi bien pour les fille que pour les garçons.**
+
+![Test de l'été](assets/images/posts/1999/test-de-l-ete.jpg)
 
 ##### 1. Votre vie rêvée se passerait:
 

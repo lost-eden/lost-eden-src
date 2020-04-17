@@ -10,7 +10,6 @@ author: Ronin
 
 ![Le Neo Nautilus](assets/images/posts/1999/nadia-et-jules-verne-suite.jpg)
 
-
 #### Les autres machines
 
 Dans **Nadia** et Jules VERNE, les véhicules sont légion, de tout type et catégorie. On passe du monocycle au gros vaisseau de type soucoupe volante *Noah Pourpre*.
