@@ -3,7 +3,6 @@ layout: post
 title: "Le test de l'été: quel personnage de manga êtes-vous ?"
 tags: [ LostEden6, Chronique ]
 featured_image_thumbnail: assets/images/posts/1999/test-de-l-ete.jpg
-
 author: Kaori
 ---
 

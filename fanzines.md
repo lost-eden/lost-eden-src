@@ -62,3 +62,9 @@ title: Historique des Fanzines
 **Date de parution**: été 1999
 
 **Equipe**: Erwan, Motenaï, Kaori, Le Ronin, Emilie, Nicolas
+
+### Lost Eden 7
+
+**Date de parution**: jamais sorti
+
+**Equipe**: Erwan, Motenaï, Kaori, Alix
