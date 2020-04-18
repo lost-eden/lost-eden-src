@@ -18,4 +18,29 @@ Si vous n’arrivez pas à vous endormir, jetez une oreille sur RTL: de 0h à 3h
 
 Je vous recommande également (enfin, si vous avez le câble) l’émission **160 BPM** sur MCM, le magazine de la musique électronique (dans lequel on put voir un live d’Anne CLARK). Horaire :  Le samedi à 22h30, le lundi à17h30, le mercredi à 23h00 et le vendredi à 23h30.
 
-Un petit conseil, traînez un peu dans les magasins de CD d’occasions: on peut trouvez des merveilles pour à des prix modiques (exemple, un *This Mortal Coil* à 60 francs). 
+Un petit conseil, traînez un peu dans les magasins de CD d’occasions: on peut trouvez des merveilles pour à des prix modiques (exemple, un *This Mortal Coil* à 60 francs).
+
+#### Comment se procurer les albums de ces artitstes ?
+
+La majorité des artistes cités ici sont généralement introuvables en grande distribution (FNAC, VIRGIN, ...) , on ne peut se les procurer que dans des boutiques spécialisées ou par VPC. Voici une liste de quelques disquaires où vous trouverez à coup sûr les albums de ces groupes d'exception.
+
+* **OMBRE SONORE**, 26 , Passage Walter BENJAMIN. 67000 STRASBOURG
+
+Catalogue VPC disponible contre 20 francs en timbres. Ils éditent également le très bon fanzine *Noising Therapy*.
+
+* **ADIPOCERE RECORD / DARK SIDE**, B.P. 18. 01540 VONNAS
+
+Catalogue VPC sur simple demande. Le prix de leurs albums n'excèdent jamais les 100 francs. 
+
+* **U BAHN**, 12-14, Rue du Parlement Saint-Pierre. 33000 BORDEAUX
+
+Catalogue VPC sur simple demande.
+
+* **FRONT DE L'EST**, 13, Rue Verrier Label. 80000 AMIENS
+
+Catalogue de VPC contre 20 francs en timbres.
+
+
+* **CYBORG STATION**, 4 Bis, Place Saint Germain. 35000 RENNES
+
+Un excellent disquaire sur Rennes .

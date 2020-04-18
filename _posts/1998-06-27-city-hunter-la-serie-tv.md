@@ -143,6 +143,44 @@ Et il a aussi participé plus récemment au doublage de *City Hunter 96, Secret 
   - Miki: Mami KOYAMA
 - Producteur: Sunrise
 
+#### Paroles du 1er générique français
+
+    Une ombre file dans la nuit 
+    C'est un assassin qui s'enfuit
+    Et comme un démon il sourit,
+    Son crime restera impuni
+    Une voiture qui surgit
+    Un coup de frein, des pneus qui crient,
+    Un coup de feu qui retentit
+    La justice s'appelle Nicky
+    Dans la chaleur, de la nuit
+    Le mal est toujours punit.
+
+    Aucun danger ne l'impressionne
+    Les coups dur il les affectionne
+    Et la justice le passionne
+    Nicky Larson ne craint personne
+    Lorsque les coups de feu résonnent
+    Comme un éclair il tourbillonne
+    Surtout si la fille est mignonne
+    Nicky Larson ne craint personne.
+
+#### Paroles du 2nd générique français
+
+    Dans la folie de la grand' ville
+    Il n'a pas la vie belle 
+    Dès qu'une mission est difficile
+    C'est lui que l'on appelle
+    Son prénom c'est Nicky
+    Et son nom c'est Larson
+
+    Refrain (x2)
+
+    Nicky Larson ne craint personne
+    Nicky Larson son nom résonne
+    Quand une affaire le passionne
+    Comme un éclair il tourbillonne.
+
 #### Les génériques
 
 Il existe en tout 19 génériques sur **City Hunter** (11 pour les 4 séries et 8 entre le film, les OAV et les 2 TV-spécial) ce qui fait en moyenne 2,11 génériques par œuvres (séries et autres) (au secours Vincent à définitivement pété les plombs !, **NDErwan**).
@@ -171,4 +209,4 @@ Tant qu’à faire, je me suis dit qu’en guise de conclusion, on pourrait réc
 
 *Grand merci à Nico.*
 
-*Sources*: *Animeland*, *Jam*, *SeiGanMag*, http://www.anipike.com.
+*Sources*: *Animeland*, *Jam*, *SeiGanMag*, [http://www.anipike.com](http://www.anipike.com).

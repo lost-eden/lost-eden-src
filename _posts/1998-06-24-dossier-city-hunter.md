@@ -25,5 +25,6 @@ Au sommaire:
 - [Les OAV]({% post_url 1998-09-10-city-hunter-les-oav %})
 - [Les téléfilms]({% post_url 1998-09-11-city-hunter-les-telefilms %})
 - [Le film]({% post_url 1998-09-12-city-hunter-le-film %})
+- [La traduction du film]({% post_url 1998-09-12-city-hunter-le-film-la-traduction %})
 - [La discographie]({% post_url 1998-09-13-city-hunter-la discographie %})
 - [Les produits dérivés]({% post_url 1998-09-13-city-hunter-les-produites-derives %})
