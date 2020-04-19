@@ -3,7 +3,7 @@ layout: post
 title: "Cartoonist"
 featured_image_thumbnail: assets/images/posts/2000/cartoonist.jpg
 tags: [ LostEden7, Chronique ]
-author: Motenai
+author: LaetitiaCeline
 ---
 
 **Cartoonist**, comment vous résumer rapidement ce que c'est... "Otaku Land ? C'est vrai que côté "produits dérivés", nous avons été servies: entre les CD, les manga, les artbook et les stores de Madoka (pourquoi pleures-tu Erwan ?)... nos porte-monnaie ont vraiment fait une drôle de gueule à notre départ.

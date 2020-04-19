@@ -38,6 +38,16 @@ authors: {
     'name': 'Emilie',
     'image': 'emilie.jpg',
     'bio': "Rédactrice dans Lost Eden depuis le numéro 5."
+  },
+  'Alix': {
+    'name': 'Alix',
+    'image': 'alix.jpg',
+    'bio': "Rédactrice dans Lost Eden depuis le numéro 7."
+  },
+  'LaetitiaCeline': {
+    'name': 'Laetitia et Céline',
+    'image': 'laetitia.jpg',
+    'bio': "Rédactrices dans Lost Eden depuis le numéro 7."
   }
 }
 

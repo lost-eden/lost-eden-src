@@ -67,4 +67,4 @@ title: Historique des Fanzines
 
 **Date de parution**: jamais sorti
 
-**Equipe**: Erwan, Motenaï, Kaori, Alix
+**Equipe**: Erwan, Motenaï, Kaori, Alix, Céline, Laetitia
