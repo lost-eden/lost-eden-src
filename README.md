@@ -1,4 +1,4 @@
-# Source du site Lost Eden
+# Lost Eden sources
 
 ## Build
 
@@ -43,6 +43,6 @@ All the modifications to the source code will rebuild the project. The site will
 
 Copyright 2019 Erwan Carriou
 
-### Theme Jekyll
+### Jekyll theme
 
 Copyright (c) HORACE. HORACE theme by https://jekyllthemes.io
